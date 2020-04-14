@@ -1,0 +1,2381 @@
+STATEFP,PUMA5CE,PUMA NAME
+1,100,"Lauderdale, Colbert, Franklin & Marion (Northeast) Counties"
+1,200,Limestone & Madison (Outer) Counties--Huntsville City (Far West & Southwest)
+1,301,Huntsville (North) & Madison (East) Cities
+1,302,Huntsville City (Central & South)
+1,400,DeKalb & Jackson Counties
+1,500,Marshall & Madison (Southeast) Counties--Huntsville City (Far Southeast)
+1,600,Morgan & Lawrence Counties--Decatur City
+1,700,Cullman & Winston Counties
+1,800,St. Clair & Blount Counties
+1,900,Etowah County
+1,1000,"Talladega, Cherokee, Randolph, Cleburne & Clay Counties"
+1,1100,Calhoun County
+1,1200,Shelby County
+1,1301,Birmingham City (West)
+1,1302,Birmingham City (East)
+1,1303,"Jefferson County (Southeast)--Hoover (North), Vestavia Hills & Homewood Cities"
+1,1304,"Jefferson County (Northeast)--Trussville, Center Point & Gardendale Cities"
+1,1305,"Jefferson County (West)--Bessemer, Hueytown & Pleasant Grove Cities"
+1,1400,"Walker, Marion (South & West), Fayette & Lamar Counties"
+1,1500,Tuscaloosa (Outer) & Pickens Counties--Northport City (North & West)
+1,1600,Tuscaloosa & Northport (Southeast) Cities
+1,1700,"Dallas, Bibb, Marengo, Hale, Sumter, Perry & Greene Counties"
+1,1800,"Chilton, Tallapoosa, Chambers & Coosa Counties"
+1,1900,Lee County--Auburn City
+1,2000,Montgomery City & Pike Road Town (North)
+1,2100,"Elmore, Autauga, Montgomery (Outer) & Lowndes Counties"
+1,2200,Southwest Alabama
+1,2300,"Coffee, Covington, Butler & Crenshaw Counties"
+1,2400,"Russell, Pike, Barbour, Macon & Bullock Counties"
+1,2500,"Houston, Dale, Geneva & Henry Counties--Dothan City"
+1,2600,Baldwin County
+1,2701,Mobile City (East)
+1,2702,Mobile City (West)
+1,2703,"Mobile County (Outer)--Prichard City, Tillmans Corner & Saraland City"
+2,101,Anchorage Municipality (North)
+2,102,Anchorage Municipality (South)
+2,200,Matanuska-Susitna & Kenai Peninsula Boroughs
+2,300,"Greater Fairbanks, Greater Juneau, Ketchikan Gateway Borough & Road-Connected Alaska"
+2,400,Subsistence Alaska
+4,100,Maricopa County--Gilbert (South) & Queen Creek Towns
+4,101,Maricopa County--Mesa City (East)
+4,102,Maricopa County--Mesa City (North Central)
+4,103,Maricopa County--Mesa City (West)
+4,104,Maricopa County--Mesa City (South Central)
+4,105,Maricopa County--Gilbert Town (North)
+4,106,Maricopa County--Chandler City (Northeast)
+4,107,Maricopa County--Chandler City (South)
+4,108,Maricopa County--Tempe (South) & Chandler (Northwest) Cities
+4,109,Maricopa County--Tempe City (North)
+4,110,Maricopa County--Scottsdale City (Southwest) & Paradise Valley Town
+4,111,Maricopa County (Northeast)--Scottsdale City (Southeast) & Fountain Hills Town
+4,112,"Maricopa County--Scottsdale (North), Phoenix (Far Northeast) Cities & Cave Creek"
+4,113,Phoenix City (Northeast)
+4,114,Phoenix City (Northeast Central)
+4,115,Phoenix City (Northwest Central)
+4,116,Phoenix City (Uptown)
+4,117,Phoenix City (East)
+4,118,Phoenix City--Downtown & Sky Harbor International Airport
+4,119,Phoenix City (South)
+4,120,Phoenix City--Ahwatukee & South Mountain
+4,121,Phoenix (Southwest) & Tolleson Cities
+4,122,Phoenix City--Maryvale (East)
+4,123,Phoenix City--Maryvale (West)
+4,124,Maricopa County--Glendale City (South)
+4,125,Phoenix City (West)
+4,126,Maricopa County--Glendale City (North)
+4,127,Maricopa County--Peoria City (South & Central)
+4,128,Phoenix City (North)
+4,129,Phoenix (Far North) & Peoria (Northwest) Cities
+4,130,Maricopa County--El Mirage City & Sun City
+4,131,Maricopa County--Surprise City (Central)
+4,132,"Maricopa County--Goodyear, Glendale (West) & Litchfield Park (Northwest) Cities"
+4,133,Maricopa County--Avondale (Central) & Litchfield Park (Central) Cities
+4,134,Maricopa County (West) & Gila River Indian Community (Northwest)
+4,201,Pima County (West)
+4,202,Tucson (West) & Marana Cities
+4,203,Pima County (North Central)--Oro Valley Town
+4,204,Pima County (Northeast)
+4,205,Pima County (Southeast)--Tucson City (Far Southeast) & Sahuarita Town
+4,206,Tucson City (Northeast)
+4,207,Tucson City (Northwest)
+4,208,Tucson City (South)
+4,209,Tucson City (Southeast)
+4,300,Navajo & Apache Counties
+4,400,Coconino County--Flagstaff City
+4,500,Yavapai County
+4,600,Mohave & La Paz Counties--Lake Havasu City
+4,700,Yuma County--Yuma City
+4,800,"Gila, Graham, Greenlee & Pinal (East) Counties"
+4,803,Pinal County (North)--Apache Junction City
+4,805,"Pinal County (Central)--Florence Town, Eloy (Northeast) & Coolidge Cities"
+4,807,"Pinal County (West)--Maricopa, Casa Grande & Eloy (Southeast) Cities"
+4,900,Cochise & Santa Cruz Counties--Sierra Vista City
+5,100,Benton County
+5,200,Washington County
+5,300,"Baxter, Boone, Carroll, Marion, Madison, Newton & Searcy Counties"
+5,400,"Independence, Cleburne, Van Buren, Sharp, Izard, Stone & Fulton Counties"
+5,500,"Craighead (West), Greene, Randolph, Lawrence & Clay Counties"
+5,600,"Crittenden, Mississippi & Craighead (East) Counties"
+5,700,"St. Francis, Poinsett, Phillips, Cross, Lee & Monroe Counties"
+5,800,"White, Jackson, Prairie & Woodruff Counties"
+5,900,"Pulaski County (Outer)--North Little Rock, Sherwood & Jacksonville Cities"
+5,1000,Pulaski County (Central)--Little Rock City
+5,1100,Faulkner & Lonoke Counties
+5,1200,Saline County
+5,1300,"Pope, Johnson, Yell, Conway & Perry Counties"
+5,1400,Sebastian & Crawford Counties
+5,1500,"Logan, Polk, Franklin, Sevier, Howard & Scott Counties"
+5,1600,"Garland, Hot Spring, Clark & Montgomery Counties"
+5,1700,"Jefferson, Grant & Arkansas (Northwest) Counties"
+5,1800,Southeast Arkansas
+5,1900,South Central Arkansas
+5,2000,Southwest Arkansas
+6,101,Alameda County (North)--Berkeley & Albany Cities
+6,102,Alameda County (Northwest)--Oakland (Northwest) & Emeryville Cities
+6,103,Alameda County (Northeast)--Oakland (East) & Piedmont Cities
+6,104,Alameda County (North Central)--Oakland City (South Central)
+6,105,"Alameda County (West)--San Leandro, Alameda & Oakland (Southwest) Cities"
+6,106,"Alameda County (North Central)--Castro Valley, San Lorenzo & Ashland"
+6,107,Alameda County (Central)--Hayward City
+6,108,"Alameda County (Southwest)--Union City, Newark & Fremont (West) Cities"
+6,109,Alameda County (South Central)--Fremont City (East)
+6,110,"Alameda County (East)--Livermore, Pleasanton & Dublin Cities"
+6,300,"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono & Tuolumne Counties"
+6,701,Butte County (Northwest)--Chico City
+6,702,Butte County (Southeast)--Oroville City & Paradise Town
+6,1100,"Colusa, Glenn, Tehama & Trinity Counties"
+6,1301,Contra Costa County (Far Southwest)--Richmond (Southwest) & San Pablo Cities
+6,1302,"Contra Costa County (Far Northwest)--Richmond (North), Hercules & El Cerrito Cites"
+6,1303,"Contra Costa County (Northwest)--Concord (West), Martinez & Pleasant Hill Cities"
+6,1304,"Contra Costa County--Walnut Creek (West), Lafayette, Orinda Cities & Moraga Town"
+6,1305,Contra Costa County (South)--San Ramon City & Danville Town
+6,1306,"Contra Costa County (Central)--Concord (South), Walnut Creek (East) & Clayton Cities"
+6,1307,Contra Costa County (North Central)--Pittsburg & Concord (North & East) Cities
+6,1308,Contra Costa County (Northeast)--Antioch City
+6,1309,Contra Costa County (East)--Brentwood & Oakley Cities
+6,1500,"Del Norte, Lassen, Modoc, Plumas & Siskiyou Counties"
+6,1700,El Dorado County--El Dorado Hills
+6,1901,"Fresno County (West)--Selma, Kerman & Coalinga Cities"
+6,1902,Fresno County (North Central)--Fresno City (North)
+6,1903,Fresno County (Central)--Fresno City (East Central)
+6,1904,Fresno County (Central)--Fresno City (Southwest)
+6,1905,Fresno County (Central)--Fresno City (Southeast)
+6,1906,Fresno County (Central)--Clovis City
+6,1907,"Fresno County (East)--Sanger, Reedley & Parlier Cities"
+6,2300,Humboldt County
+6,2500,Imperial County--El Centro City
+6,2901,"Kern County (West)--Delano, Wasco & Shafter Cities"
+6,2902,Kern County (Central)--Bakersfield City (West)
+6,2903,Kern County (Central)--Bakersfield City (Northeast)
+6,2904,Kern County (Central)--Bakersfield City (Southeast)
+6,2905,"Kern County (East)--Ridgecrest, Arvin, Tehachapi & California City Cities"
+6,3100,Kings County--Hanford City
+6,3300,Lake & Mendocino Counties
+6,3701,Los Angeles County (North/Unincorporated)--Castaic
+6,3702,Los Angeles County (Northwest)--Santa Clarita City
+6,3703,Los Angeles County (North Central)--Lancaster City
+6,3704,Los Angeles County (North Central)--Palmdale City
+6,3705,Los Angeles County (North)--LA City (Northwest/Chatsworth & Porter Ranch)
+6,3706,Los Angeles County (North)--LA City (North Central/Granada Hills & Sylmar)
+6,3707,Los Angeles County--LA (North Central/Arleta & Pacoima) & San Fernando Cities
+6,3708,"Los Angeles County (North)--LA City (Northeast/Sunland, Sun Valley & Tujunga)"
+6,3709,Los Angeles County (Central)--San Gabriel Valley Region (North)
+6,3710,"Los Angeles County--Baldwin Park, Azusa, Duarte & Irwindale Cities"
+6,3711,"Los Angeles County (East Central)--Glendora, Claremont, San Dimas & La Verne Cities"
+6,3712,Los Angeles County (East Central)--Pomona City
+6,3713,Los Angeles County (East Central)--Covina & Walnut Cities
+6,3714,"Los Angeles County--Diamond Bar, La Habra Heights (East) Cities & Rowland Heights"
+6,3715,Los Angeles County (East Central)--West Covina City
+6,3716,Los Angeles County (East Central)--La Puente & Industry Cities
+6,3717,"Los Angeles County (East Central)--Arcadia, San Gabriel & Temple City Cities"
+6,3718,Los Angeles County (Central)--Pasadena City
+6,3719,Los Angeles County (Central)--Glendale City
+6,3720,Los Angeles County (Central)--Burbank City
+6,3721,Los Angeles County (North)--LA City (Northeast/North Hollywood & Valley Village)
+6,3722,Los Angeles County (Northwest)--LA City (North Central/Van Nuys & North Sherman Oaks)
+6,3723,Los Angeles County (North)--LA City (North Central/Mission Hills & Panorama City)
+6,3724,Los Angeles County (Northwest)--LA City (Northwest/Encino & Tarzana)
+6,3725,"Los Angeles County--LA City (Northwest/Canoga Park, Winnetka & Woodland Hills)"
+6,3726,"Los Angeles County--Calabasas, Agoura Hills, Malibu & Westlake Village Cities"
+6,3727,Los Angeles County (Central)--LA City (Central/Pacific Palisades)
+6,3728,Los Angeles County (Southwest)--Santa Monica City
+6,3729,Los Angeles County (West Central)--LA City (West Central/Westwood & West Los Angeles)
+6,3730,Los Angeles County (West Central)--LA City (Central/Hancock Park & Mid-Wilshire)
+6,3731,Los Angeles County (Central)--West Hollywood & Beverly Hills Cities
+6,3732,Los Angeles County (Central)--LA City (East Central/Hollywood)
+6,3733,Los Angeles County (Central)--LA City (Central/Koreatown)
+6,3734,"Los Angeles County--LA City (East Central/Silver Lake, Echo Park & Westlake)"
+6,3735,"Los Angeles County--LA City (Mount Washington, Highland Park & Glassell Park)"
+6,3736,Los Angeles County (Central)--Alhambra & South Pasadena Cities
+6,3737,Los Angeles County (Central)--Monterey Park & Rosemead Cities
+6,3738,Los Angeles County (Central)--El Monte & South El Monte Cities
+6,3739,Los Angeles County (Southeast)--Whittier City & Hacienda Heights
+6,3740,Los Angeles County (Central)--Pico Rivera & Montebello Cities
+6,3741,"Los Angeles County (Central)--Bell Gardens, Bell, Maywood, Cudahy & Commerce Cities"
+6,3742,"Los Angeles County (Central)--Huntington Park City, Florence-Graham & Walnut Park"
+6,3743,Los Angeles County (Central)--East Los Angeles
+6,3744,Los Angeles County (Central)--LA City (East Central/Central City & Boyle Heights)
+6,3745,Los Angeles County (Central)--LA City (Southeast/East Vernon)
+6,3746,Los Angeles County--LA City (Central/Univ. of Southern California & Exposition Park)
+6,3747,Los Angeles County (Central)--LA City (Central/West Adams & Baldwin Hills)
+6,3748,Los Angeles County--LA (Southwest/Marina del Rey & Westchester) & Culver City Cities
+6,3749,Los Angeles County (Central)--Inglewood City
+6,3750,Los Angeles County (South Central)--LA City (South Central/Westmont)
+6,3751,Los Angeles County (South Central)--LA City (South Central/Watts)
+6,3752,Los Angeles County (South)--South Gate & Lynwood Cities
+6,3753,Los Angeles County (South)--Downey City
+6,3754,Los Angeles County (Southeast)--La Mirada & Santa Fe Springs Cities
+6,3755,Los Angeles County (Southeast)--Norwalk City
+6,3756,Los Angeles County (Southeast)--Bellflower & Paramount Cities
+6,3757,Los Angeles County (South Central)--Compton City & West Rancho Dominguez
+6,3758,"Los Angeles County (South Central)--Gardena, Lawndale Cities & West Athens"
+6,3759,Los Angeles County (South Central)--Hawthorne City
+6,3760,"Los Angeles County--Redondo Beach, Manhattan Beach & Hermosa Beach Cities"
+6,3761,Los Angeles County (South Central)--Torrance City
+6,3762,Los Angeles County (South Central)--Carson City
+6,3763,Los Angeles County (South Central)--Long Beach City (North)
+6,3764,"Los Angeles County (South)--Lakewood, Cerritos, Artesia & Hawaiian Gardens Cities"
+6,3765,Los Angeles County (Southeast)--Long Beach City (East)
+6,3766,Los Angeles County (South)--Long Beach City (Southwest & Port)
+6,3767,Los Angeles County (South)--LA City (South/San Pedro)
+6,3768,Los Angeles County (Southwest)--Palos Verdes Peninsula
+6,3769,Los Angeles County (Southeast)--Long Beach (Central) & Signal Hill Cities
+6,3900,Madera County--Madera City
+6,4101,Marin County (North & West)--Novato & San Rafael (North) Cities
+6,4102,"Marin County (Southeast)--San Rafael (South), Mill Valley & Sausalito Cities"
+6,4701,Merced County (West & South)--Los Banos & Livingston Cities
+6,4702,Merced County (Northeast)--Merced & Atwater Cities
+6,5301,"Monterey County (North Central)--Seaside, Monterey, Marina & Pacific Grove Cities"
+6,5302,Monterey County (Northeast)--Salinas City
+6,5303,Monterey (South & East) & San Benito Counties
+6,5500,Napa County--Napa City
+6,5700,Nevada & Sierra Counties
+6,5901,"Orange County (Southwest)--San Clemente, Laguna Niguel & San Juan Capistrano Cities"
+6,5902,Orange County (South Central)--Mission Viejo & Rancho Santa Margarita (West) Cities
+6,5903,"Orange County (West Central)--Newport Beach, Aliso Viejo & Laguna Hills Cities"
+6,5904,Orange County (Central)--Irvine City (Central)
+6,5905,"Orange County (Northeast)--Lake Forest, Irvine (North) Cities & Silverado"
+6,5906,"Orange County (North)--Yorba Linda, La Habra & Brea Cities"
+6,5907,Orange County (North Central)--Fullerton & Placentia Cities
+6,5908,"Orange County (Northwest)--Buena Park, Cypress & Seal Beach Cities"
+6,5909,Orange County (North Central)--Anaheim City (West)
+6,5910,Orange County (North Central)--Anaheim City (East)
+6,5911,Orange County (Central)--Orange & Villa Park Cities
+6,5912,"Orange County (Northwest)--Westminster, Stanton & Garden Grove (West) Cities"
+6,5913,Orange County (Northwest)--Garden Grove City (East)
+6,5914,Orange County (Northwest)--Huntington Beach City
+6,5915,Orange County (Southeast)--Rancho Santa Margarita City (East) & Ladera Ranch
+6,5916,Orange County (Central)--Santa Ana City (West)
+6,5917,Orange County (Central)--Santa Ana City (East)
+6,5918,Orange County (Central)--Costa Mesa & Fountain Valley Cities
+6,6101,Placer County (Southwest)--Roseville City
+6,6102,"Placer County (Central)--Rocklin, Lincoln Cities & Loomis Town"
+6,6103,Placer County (East/High Country Region)--Auburn & Colfax Cities
+6,6501,"Riverside County (East)--Indio, Coachella, Blythe & La Quinta (East) Cities"
+6,6502,"Riverside County (Central)--Cathedral City, Palm Springs & Rancho Mirage Cities"
+6,6503,Riverside County (Southwest)--Temecula City
+6,6504,Riverside County (Southwest)--Murrieta & Wildomar Cities
+6,6505,"Riverside County (Southwest)--Menifee, Lake Elsinore & Canyon Lake Cities"
+6,6506,Riverside County (Southwest)--Hemet City & East Hemet
+6,6507,"Riverside County (North Central)--San Jacinto, Beaumont, Banning & Calimesa Cities"
+6,6508,Riverside County (Northwest)--Moreno Valley City
+6,6509,"Riverside County (West Central)--Perris City, Temescal Valley & Mead Valley"
+6,6510,Riverside County (Northwest)--Riverside City (East)
+6,6511,Riverside County (Northwest)--Riverside City (West)
+6,6512,"Riverside County (West Central)--Corona City (South), Woodcrest & Home Gardens"
+6,6513,Riverside County (West Central)--Corona (Northwest) & Norco Cities
+6,6514,Riverside County (Northwest)--Jurupa Valley & Eastvale Cities
+6,6515,"Riverside County--Palm Desert, La Quinta (West) & Desert Hot Springs Cities"
+6,6701,Sacramento County (North Central)--Citrus Heights City
+6,6702,Sacramento County (Central)--Rancho Cordova City
+6,6703,"Sacramento County (North Central)--Arden-Arcade, Carmichael & Fair Oaks (West)"
+6,6704,"Sacramento County (North Central)--North Highlands, Foothill Farms & McClellan Park"
+6,6705,Sacramento County (Northwest)--Sacramento City (Northwest/Natomas)
+6,6706,"Sacramento County (North)--Sacramento City (North), Antelope & Rio Linda"
+6,6707,Sacramento County (West)--Sacramento City (Central/Downtown & Midtown)
+6,6708,"Sacramento County--Sacramento City (Southeast/Fruitridge, Avondale & Depot Park)"
+6,6709,"Sacramento County--Sacramento City (Southwest/Pocket, Meadowview & North Laguna)"
+6,6710,Sacramento County (Central)--Elk Grove City
+6,6711,"Sacramento County (South)--Galt, Isleton Cities & Delta Region"
+6,6712,"Sacramento County (Northeast)--Folsom City, Orangevale & Fair Oaks (East)"
+6,7101,San Bernardino County (Northeast)--Twentynine Palms & Barstow Cities
+6,7102,San Bernardino County (West Central)--Victorville & Adelanto Cities
+6,7103,San Bernardino County (West Central)--Hesperia City & Apple Valley Town
+6,7104,"San Bernardino County (Southwest)--Phelan, Lake Arrowhead & Big Bear City"
+6,7105,San Bernardino County (Southwest)--Redlands & Yucaipa Cities
+6,7106,"San Bernardino County (Southwest)--Colton, Loma Linda & Grand Terrace Cities"
+6,7107,San Bernardino County (Southwest)--San Bernardino City (East)
+6,7108,San Bernardino County (Southwest)--San Bernardino City (West)
+6,7109,San Bernardino County (Southwest)--Rialto City
+6,7110,San Bernardino County (Southwest)--Fontana City (East)
+6,7111,San Bernardino County (Southwest)--Rancho Cucamonga City
+6,7112,San Bernardino County (Southwest)--Upland & Montclair Cities
+6,7113,San Bernardino County (Southwest)--Ontario City
+6,7114,San Bernardino County (Southwest)--Chino & Chino Hills Cities
+6,7115,San Bernardino County (Southwest)--Fontana City (West)
+6,7301,San Diego County (Northwest)--Oceanside City & Camp Pendleton
+6,7302,"San Diego County (North & East)--Fallbrook, Alpine & Valley Center"
+6,7303,San Diego County (Northwest)--Vista City
+6,7304,San Diego County (Northwest)--Carlsbad City
+6,7305,San Diego County (Northwest)--San Marcos & Escondido (West) Cities
+6,7306,San Diego County (Northwest)--Escondido City (East)
+6,7307,"San Diego County (Central)--Lakeside, Winter Gardens & Ramona"
+6,7308,San Diego County (Central)--San Diego (Northeast/Rancho Bernardo) & Poway Cities
+6,7309,San Diego County (West)--San Diego (Northwest/San Dieguito) & Encinitas Cities
+6,7310,San Diego County (West)--San Diego City (Southwest/Central Coastal)
+6,7311,San Diego County (West Central)--San Diego City (Northwest/Del Mar Mesa)
+6,7312,San Diego County (Central)--San Diego City (Central/Mira Mesa & University Heights)
+6,7313,San Diego County (Central)--El Cajon & Santee Cities
+6,7314,San Diego County (Central)--San Diego (East Central/Navajo) & La Mesa Cities
+6,7315,San Diego County (West Central)--San Diego City (Central/Clairemont & Kearny Mesa)
+6,7316,San Diego County (South Central)--San Diego City (Central/Centre City & Balboa Park)
+6,7317,San Diego County (South Central)--San Diego City (Central/Mid-City)
+6,7318,San Diego County (South)--San Diego City (Southeast/Encanto & Skyline)
+6,7319,"San Diego County (South Central)--Lemon Grove City, La Presa & Spring Valley"
+6,7320,San Diego County (Southwest)--Sweetwater Region--Chula Vista City (East)
+6,7321,San Diego County (Southwest)--Chula Vista (West) & National City Cities
+6,7322,San Diego County (South)--San Diego City (South/Otay Mesa & South Bay)
+6,7501,San Francisco County (North & West)--Richmond District
+6,7502,San Francisco County (North & East)--North Beach & Chinatown
+6,7503,San Francisco County (Central)--South of Market & Potrero
+6,7504,San Francisco County (Central)--Inner Mission & Castro
+6,7505,San Francisco County (Central)--Sunset District (North)
+6,7506,San Francisco County (South Central)--Sunset District (South)
+6,7507,San Francisco County (South Central)--Bayview & Hunters Point
+6,7701,San Joaquin County (Central)--Stockton City (North)
+6,7702,San Joaquin County (Central)--Stockton City (South)
+6,7703,"San Joaquin County (South)--Tracy, Manteca & Lathrop Cities"
+6,7704,"San Joaquin County (North)--Lodi, Ripon & Escalon Cities"
+6,7901,San Luis Obispo County (West)--Coastal Region
+6,7902,San Luis Obispo County (East)--Inland Region
+6,8101,"San Mateo County (North Central)--Daly City, Pacifica Cities & Colma Town"
+6,8102,"San Mateo County (North Central)--South San Francisco, San Bruno & Brisbane Cities"
+6,8103,"San Mateo County (Central)--San Mateo (North), Burlingame & Millbrae Cities"
+6,8104,San Mateo County (South & West)--San Mateo (South) & Half Moon Bay Cities
+6,8105,"San Mateo County (East Central)--Redwood City, San Carlos & Belmont Cities"
+6,8106,"San Mateo County (Southeast)--Menlo Park, East Palo Alto Cities & Atherton Town"
+6,8301,Santa Barbara County (Northwest)--Santa Maria City & Orcutt
+6,8302,"Santa Barbara County (North)--Lompoc, Guadalupe, Solvang & Buellton Cities"
+6,8303,Santa Barbara County--South Coast Region
+6,8501,"Santa Clara County (Northwest)--Mountain View, Palo Alto & Los Altos Cities"
+6,8502,Santa Clara County (Northwest)--Sunnyvale & San Jose (North) Cities
+6,8503,Santa Clara County (Northwest)--San Jose (Northwest) & Santa Clara Cities
+6,8504,Santa Clara County (North Central)--Milpitas & San Jose (Northeast) Cities
+6,8505,Santa Clara County (North Central)--San Jose City (East Central) & Alum Rock
+6,8506,"Santa Clara County (East)--Gilroy, Morgan Hill & San Jose (South) Cities"
+6,8507,"Santa Clara County (Southwest)--Cupertino, Saratoga Cities & Los Gatos Town"
+6,8508,Santa Clara County (Central)--San Jose (West Central) & Campbell Cities
+6,8509,Santa Clara County (Central)--San Jose City (Northwest)
+6,8510,Santa Clara County (Central)--San Jose City (Central)
+6,8511,Santa Clara County (Central)--San Jose City (South Central/Branham) & Cambrian Park
+6,8512,Santa Clara County (Central)--San Jose City (Southwest/Almaden Valley)
+6,8513,Santa Clara County (Central)--San Jose City (Southeast/Evergreen)
+6,8514,Santa Clara County (Central)--San Jose City (East Central/East Valley)
+6,8701,Santa Cruz County (North)--Watsonville & Scotts Valley Cities
+6,8702,Santa Cruz County (South & Coastal)--Santa Cruz City
+6,8900,Shasta County--Redding City
+6,9501,Solano County (Southwest)--Vallejo & Benicia Cities
+6,9502,Solano County (Central)--Fairfield & Suisun City Cities
+6,9503,Solano County (Northeast)--Vacaville & Dixon Cities
+6,9701,"Sonoma County (North)--Windsor Town, Healdsburg & Sonoma Cities"
+6,9702,"Sonoma County (South)--Petaluma, Rohnert Park & Cotati Cities"
+6,9703,Sonoma County (Central)--Santa Rosa City
+6,9901,"Stanislaus County (Southwest)--Ceres, Patterson & Newman Cities"
+6,9902,Stanislaus County (Central)--Modesto City (West)
+6,9903,"Stanislaus County (Northeast)--Turlock, Riverbank, Oakdale & Waterford Cities"
+6,9904,Stanislaus County (Central)--Modesto City (East)
+6,10100,Sutter & Yuba Counties--Yuba City
+6,10701,Tulare County (Northwest)--Visalia City
+6,10702,Tulare County (West Central)--Tulare & Porterville Cities
+6,10703,"Tulare County (Outside Visalia, Tulare & Porterville Cities)"
+6,11101,Ventura County (Southeast)--Simi Valley City
+6,11102,Ventura County (Southeast)--Thousand Oaks City
+6,11103,Ventura County (Southwest)--Oxnard & Port Hueneme Cities
+6,11104,Ventura County (Southwest)--San Buenaventura (Ventura) City
+6,11105,"Ventura County (North)--Santa Paula, Fillmore & Ojai Cities"
+6,11106,Ventura County (South Central)--Camarillo & Moorpark Cities
+6,11300,"Yolo County--Davis, Woodland & West Sacramento Cities"
+8,100,Northeast Colorado--Eastern Plains Region
+8,102,Larimer County (South)--Loveland City
+8,103,Larimer County (North)--Fort Collins City
+8,200,"Northwest Colorado--Garfield, Routt, Moffat & Rio Blanco Counties"
+8,300,"Weld County (South Central)--Greeley, Windsor & Evans Cities"
+8,400,"Eagle, Summit, Grand & Jackson Counties"
+8,600,"Fremont, Chaffee, Park, Lake, Huerfano, Pueblo (Southwest) & Custer Counties"
+8,700,Pueblo County (North)--Pueblo City & Pueblo West
+8,800,Southeast Colorado
+8,801,"DRCOG Mountains--Jefferson (West), Boulder (West), Clear Creek & Gilpin Counties"
+8,802,Boulder (Northeast) & Weld (Southwest) Counties--Longmont City & Erie Town
+8,803,Boulder County (Central)--Boulder City
+8,804,"Broomfield, Jefferson (Northeast), Adams (Northwest) & Boulder (Southeast) Counties"
+8,805,Adams (West) & Jefferson (Far Northeast) Counties--Westminster & Northglenn Cities
+8,806,Adams County (West Central)--Thornton & Federal Heights Cities
+8,807,Adams County (West Central)--Commerce City & Brighton Cities
+8,808,Arapahoe County (West)--Aurora (Southwest) & Centennial (East) Cities
+8,809,Arapahoe (West) & Adams (South Central) Counties--Aurora City (North Central)
+8,810,Arapahoe (Northwest) & Adams (Southwest) Counties--Aurora City (Northwest)
+8,811,Arapahoe County (Southwest)--Centennial (West & Central) & Greenwood Village Cities
+8,812,Denver City (Northeast)
+8,813,Denver City (Northwest)
+8,814,Denver City (South Central)
+8,815,Denver City (Southeast)
+8,816,Denver City (Southwest)
+8,817,Jefferson County (Northeast)--Arvada City
+8,818,"Jefferson County (East Central)--Lakewood (North), Wheat Ridge & Golden Cities"
+8,819,Jefferson County (East Central)--Lakewood City (South) & Dakota Ridge
+8,820,"Arapahoe (West) & Jefferson (East) Counties--Littleton, Englewood Cities & Columbine"
+8,821,Douglas (West) & Jefferson (Southeast) Counties--Highlands Ranch & Chatfield Park
+8,822,Douglas County (South)--Castle Rock Town
+8,823,Douglas (Northeast) & Elbert (West) Counties--Parker Town & The Pinery
+8,824,DRCOG East Plains--Arapahoe (East) & Adams (East) Counties--Aurora City (Northeast)
+8,900,"La Plata, Montezuma, Gunnison, Archuleta, Dolores, Hinsdale & San Juan Counties"
+8,1001,Mesa County (Central)--Greater Grand Junction & Fruita Cities
+8,1002,"Mesa (Outside Grand Junction City), Montrose, Delta, San Miguel & Ouray Counties"
+8,4101,El Paso (Outside Colorado Springs City) & Teller Counties--Fountain City
+8,4102,El Paso County (West Central)--Colorado Springs City (West)
+8,4103,El Paso County (Central)--Colorado Springs City (Central)
+8,4104,El Paso County (Central)--Colorado Springs City (East) & Cimarron Hills
+8,4105,El Paso County (Central)--Colorado Springs City (South) & Security-Widefield
+8,4106,El Paso County (North Central)--Colorado Springs City (North) & Monument Town
+9,100,"Danbury, Ridgefield, Bethel, Brookfield, New Fairfield, Redding & Sherman Towns"
+9,101,"Fairfield, New Canaan, Wilton, Weston & Easton Towns"
+9,102,Stamford & Greenwich Towns
+9,103,"Norwalk, Westport & Darien Towns"
+9,104,Bridgeport Town
+9,105,"Stratford, Shelton, Trumbull, Newtown & Monroe Towns"
+9,300,Hartford County (North)
+9,301,Manchester & East Hartford Towns
+9,302,Hartford Town
+9,303,"West Hartford, Farmington, Simsbury, Bloomfield, Avon & Canton Towns"
+9,304,"Bristol, Southington & Burlington Towns"
+9,305,"New Britain, Berlin & Plainville Towns"
+9,306,"Glastonbury, Newington, Wethersfield, Rocky Hill & Marlborough Towns"
+9,500,Litchfield County
+9,700,Middlesex County
+9,900,New Haven County (Northwest)
+9,901,Waterbury Town
+9,902,"Meriden, Wallingford & North Haven Towns"
+9,903,"Hamden, Ansonia, Seymour, Derby, Woodbridge & Bethany Towns"
+9,904,"West Haven, Milford & Orange Towns"
+9,905,New Haven Town
+9,906,"East Haven, Branford, Guilford, Madison & North Branford Towns"
+9,1100,New London County (North)
+9,1101,New London County (South)
+9,1300,Tolland County
+9,1500,Windham County
+10,101,New Castle County (East Central)--Wilmington City
+10,102,New Castle County (North)--Hockessin
+10,103,New Castle County (West Central)--Newark City & Brookside
+10,104,"New Castle County (South)--Middletown Town, Bear & Glasgow"
+10,200,Kent County--Dover City
+10,300,Sussex County
+11,101,District of Columbia (West)
+11,102,District of Columbia (North)
+11,103,District of Columbia (Northeast)
+11,104,District of Columbia (East)
+11,105,District of Columbia (Central)
+12,101,Alachua County (Central)--Gainesville City (Central)
+12,102,Alachua County (Outer)
+12,500,"Walton, Washington, Holmes & Bay Counties"
+12,901,"Brevard County (Northwest)--Titusville, Rockledge & Cocoa Cities"
+12,902,Brevard County (East)--Beaches & Merritt Island
+12,903,Brevard County (Southwest)--Melbourne & West Melbourne Cities
+12,904,"Brevard County (Southeast)--Palm Bay City, Grant-Valkaria & Malabar Towns"
+12,1101,Broward County (West)--Coral Springs & Parkland Cities
+12,1102,Broward County (North Central)--Margate & Coconut Creek Cities
+12,1103,"Broward County--Deerfield, Pompano Beach (North) & Lighthouse Point Cities"
+12,1104,Broward County--Pompano Beach (South) & Fort Lauderdale (Northeast) Cities
+12,1105,"Broward County (Central)--Tamarac, Oakland Park & North Lauderdale Cities"
+12,1106,Broward County (Central)--Plantation & Sunrise Cities
+12,1107,Broward County (Central)--Lauderhill & Lauderdale Lakes Cities
+12,1108,Broward County (East Central)--Fort Lauderdale City (Central)
+12,1109,Broward County (Southeast)--Hollywood (North) & Dania Beach (South) Cities
+12,1110,Broward County (Central)--Davie Town & Cooper City
+12,1111,"Broward County--Weston, Pembroke Pines (Northwest) Cities & Southwest Ranches Town"
+12,1112,Broward County (South Central)--Miramar (West) & Pembroke Pines (Southwest) Cities
+12,1113,Broward County (Southeast)--Hollywood (South) & Pembroke Pines (East) Cities
+12,1114,"Broward County (Southeast)--Miramar (East), Hallandale Beach & West Park Cities"
+12,1500,Charlotte County
+12,1701,Citrus County
+12,1900,Clay County
+12,2101,Collier County (Northwest)
+12,2102,Collier County (Southwest)
+12,2103,Collier County (East)
+12,2300,"Columbia, Levy, Bradford, Gilchrist, Dixie & Union Counties"
+12,2700,"Southwest Heartland--Highlands (Northwest), DeSoto & Hardee Counties"
+12,3101,Duval County (Outer)--Jacksonville City (North & West)
+12,3102,Duval County (Northwest Central)--Jacksonville City (Northwest)
+12,3103,Duval County (North Central)--Jacksonville City (Arlington)
+12,3104,Duval County (East)--Jacksonville City (Beaches)
+12,3105,Duval County (Southeast)--Jacksonville City (Southeast)
+12,3106,Duval County (South Central)--Jacksonville City (Southeast River)
+12,3107,Duval County (Southwest Central)--Jacksonville City (Southwest)
+12,3301,Escambia County (North)
+12,3302,Escambia County (South)
+12,3500,Flagler & Volusia (North Central) Counties
+12,5301,Hernando County
+12,5701,Hillsborough County (Central)--Tampa City (Central)
+12,5702,Hillsborough County (Southwest)--Tampa City (South)
+12,5703,Hillsborough County (Northwest)
+12,5704,Hillsborough County (North Central)
+12,5705,Hillsborough County (North Central)--Tampa City (North)
+12,5706,Hillsborough County (Northeast)
+12,5707,Hillsborough County (Central)
+12,5708,Hillsborough County (South County)
+12,6100,Indian River County
+12,6300,Apalachee Region (Outside Leon County)
+12,6901,Lake County (North)
+12,6902,Sumter (North) & Lake (North) Counties
+12,6903,Lake (South) & Sumter (South) Counties
+12,7101,Lee County (South & West)--Barrier Islands Region
+12,7102,Lee County (Northwest)--Cape Coral City
+12,7103,Lee County (Northeast)--Lehigh Acres & North Fort Myers
+12,7104,Lee County (Central)--Greater Fort Myers City
+12,7105,Lee County (Southeast)--Bonita Springs City & Estero (East)
+12,7300,Leon County (Outer)
+12,7301,Leon County (Central)--Tallahassee City (Central)
+12,8101,Manatee County (North)
+12,8102,Manatee County (West Central)
+12,8103,Manatee County (South)
+12,8301,Marion County (North)
+12,8302,Marion County (Central)--Ocala City
+12,8303,Marion County (South Central)
+12,8500,Martin County
+12,8601,Miami-Dade County (North Central)--Greater Miami Lakes Town
+12,8602,Miami-Dade County (North Central)--Miami Gardens City (North & West)
+12,8603,Miami-Dade County (Northeast)--Greater North Miami Beach City (West)
+12,8604,Miami-Dade County (Northeast)--Aventura City & Surfside Town
+12,8605,Miami-Dade County--North Miami City (Southwest) & Golden Glades (West)
+12,8606,"Miami-Dade County (Northeast)--Opa-Locka City, West Little River & Westview"
+12,8607,Miami-Dade County (Northeast)--Hialeah City (North Central)
+12,8608,"Miami-Dade County (North Central)--Doral, Sweetwater Cities & Fontainebleau"
+12,8609,Miami-Dade County (Northeast)--Hialeah City (South Central)
+12,8610,Miami-Dade County (Central)--Miami Springs City & Miami International Airport
+12,8611,Miami-Dade County (Northeast Central)--Miami City (North)
+12,8612,Miami-Dade County (Northeast)--Miami Beach City & Miami Shores Village
+12,8613,Miami-Dade County (Northeast Central)--Miami City (Downtown)
+12,8614,Miami-Dade County (East)--Miami City (East) & Key Biscayne Village
+12,8615,Miami-Dade County (East Central)--Miami City (West)
+12,8616,"Miami-Dade County (East)--Coral Gables City, Pinecrest Village & Kendall (South)"
+12,8617,"Miami-Dade County (East Central)--South Miami City, Westchester & Coral Terrace"
+12,8618,Miami-Dade County (North Central)--Tamiami Trail Region (South)--Tamiami
+12,8619,Miami-Dade County (Central)--Kendale Lakes (Southwest) & Kendall West (South)
+12,8620,"Miami-Dade County (East Central)--Kendall (North), Sunset & Westwood Lakes"
+12,8621,"Miami-Dade County (Central)--The Hammocks (West), Richmond West (West) & Country Walk"
+12,8622,Miami-Dade County (Southwest)--South Miami Heights
+12,8623,Miami-Dade County (Southeast)--Cutler Bay Town & Palmetto Bay Village
+12,8624,Miami-Dade County (South)--Homestead City (North) & Florida City (North)
+12,8700,Miami-Dade (South/Outside Urban Development Boundary) & Monroe Counties
+12,8900,Nassau & Baker Counties
+12,9100,Okaloosa County
+12,9300,"Southeast Heartland--Highlands (South & East), Okeechobee, Hendry & Glades Counties"
+12,9501,Orange County (Northwest)
+12,9502,"Orange County (West Central)--Winter Garden, Ocoee Cities & Oakland Town"
+12,9503,Orange County (Southwest)--Disney-International Drive Region
+12,9504,"Orange County (South Central)--Orlando City (South Central), Conway & Pine Castle"
+12,9505,Orange County (Central)--Orlando City (East Downtown) & Azalea Park
+12,9506,Orange County (Central)--Orlando City (West Downtown) & Pine Hills (Southeast)
+12,9507,"Orange County (North Central)--Orlando (North), Winter Park & Maitland Cities"
+12,9508,Orange County (North Central)--Orlando City (Univ. of Central Florida) & Union Park
+12,9509,Orange County (Southeast)
+12,9510,Orange County (Northeast)
+12,9701,Osceola County (West)
+12,9702,Osceola County (East)
+12,9901,Palm Beach County (Northeast)
+12,9902,Palm Beach County (Northeast)--Palm Beach Gardens & Riviera Beach Cities
+12,9903,Palm Beach County (East)--West Palm Beach City (Southeast) & Palm Beach Town
+12,9904,Palm Beach County (East)--Greenacres City (North) & Palm Springs Village (North)
+12,9905,"Palm Beach County (East Central)--Lake Worth City, Lantana Town & Atlantis City"
+12,9906,Palm Beach County (East Central)--Greater Boynton Beach City (North)
+12,9907,Palm Beach County (Southeast)--Greater Delray Beach City
+12,9908,Palm Beach County (Southeast)--Boca Raton City & Highland Beach Town
+12,9909,Palm Beach County (West of Boca Raton City)
+12,9910,Palm Beach County (Central)--Wellington Village & Agricultural Reserve
+12,9911,Palm Beach County (West)--Glades & Western Communities
+12,10101,Pasco County (East Central)
+12,10102,Pasco County (West Central)
+12,10103,Pasco County (Gulf Coast)
+12,10104,Pasco County (South)
+12,10301,Pinellas County (North)
+12,10302,Pinellas County (North Central)
+12,10303,Pinellas County (Central)--Clearwater City (South & Central)
+12,10304,Pinellas County (Central)--Greater Largo City
+12,10305,Pinellas County (West Central)--Greater Seminole City
+12,10306,Pinellas County (Central)--Greater Pinellas Park City
+12,10307,Pinellas County (Southeast)--St. Petersburg City (East)
+12,10308,Pinellas County (South Central)--St. Petersburg City (West)
+12,10501,Polk County (Northwest)
+12,10502,Polk County (Northeast)
+12,10503,Polk County (Central)
+12,10504,Polk County (South)
+12,10700,Putnam & St. Johns (South) Counties
+12,10900,St. Johns County (North)
+12,11101,St. Lucie County (North)
+12,11102,St. Lucie County (South)
+12,11300,Santa Rosa County
+12,11501,Sarasota County (North)
+12,11502,Sarasota County (Central & Gulf Coast)
+12,11503,Sarasota County (East)
+12,11701,Seminole County (West)
+12,11702,Seminole County (North Central)
+12,11703,Seminole County (South Central)
+12,11704,Seminole County (East)
+12,12100,"Suwannee, Taylor, Madison, Hamilton & Lafayette Counties"
+12,12701,"Volusia County (Central & Northwest)--DeLand, DeBary Cities & Pierson Town"
+12,12702,"Volusia County (Northeast)--Daytona Beach, Ormond Beach & Holly Hill Cities"
+12,12703,"Volusia County--Port Orange, Edgewater, New Smyrna Beach (East) & Oak Hill Cities"
+12,12704,Volusia County (Southwest Central)--Deltona & Lake Helen Cities
+13,100,Coastal Regional Commission (South)--Glynn Camden & McIntosh Counties
+13,200,"Coastal Regional Commission (West)--Liberty, Bryan & Long Counties"
+13,300,"Coastal Regional Commission (North)--Bulloch, Effingham & Screven Counties"
+13,401,Coastal Regional Commission (East)--Chatham County (West Central)--Savannah City
+13,402,Coastal Regional Commission (East)--Chatham County (East & Outside Savannah City)
+13,500,Southern Georgia Regional Commission (East & Central)
+13,600,Southern Georgia Regional Commission (South Central)--Lowndes County--Valdosta City
+13,700,Southern Georgia Regional Commission (West)
+13,800,"Southwest Georgia Regional Commission (East)--Colquitt, Thomas & Worth Counties"
+13,900,Southwest Georgia Regional Commission (North Central)--Dougherty & Lee Counties
+13,1001,Atlanta Regional Commission (Central)--Fulton County (North)--Sandy Springs City
+13,1002,Atlanta Regional Commission (Central)--Fulton County (Northeast)--Johns Creek City
+13,1003,Atlanta Regional Commission (Central)--Fulton County (Central)--Atlanta City (South)
+13,1004,Atlanta Regional Commission (Central)--Fulton County (South)--Union & Fairburn Cities
+13,1005,Atlanta Regional Commission (Central)--Fulton County (Northwest)--Roswell City
+13,1006,Atlanta Regional Commission (Central)--Fulton County (Central)--Atlanta City (North)
+13,1007,Atlanta Regional Commission (Central)--Fulton County (East)--Atlanta City (Southeast)
+13,1008,Atlanta Regional Commission (Central)--DeKalb County (South)
+13,1100,Southwest Georgia Regional Commission (West & Central)
+13,1200,Heart of Georgia Altamaha Regional Commission (Southeast)
+13,1300,Heart of Georgia Altamaha Regional Commission (North & West)
+13,1400,Middle Georgia Regional Commission (Central)--Bibb County--Macon City
+13,1500,Middle Georgia Regional Commission (South)--Houston & Pulaski Counties
+13,1600,Middle Georgia Regional Commission (North & Outside Bibb County)
+13,1700,River Valley Regional Commission (West Central)--Muscogee & Chattahoochee Counties
+13,1800,River Valley Regional Commission (Outside Muscogee & Chattahoochee Counties)
+13,1900,Three Rivers Regional Commission (East)
+13,2001,Atlanta Regional Commission (Central)--DeKalb County (East Central)--Redan
+13,2002,Atlanta Regional Commission--DeKalb County--Decatur & Avondale Estates Cities
+13,2003,Atlanta Regional Commission (Central)--DeKalb County (Northeast)--Tucker
+13,2004,Atlanta Regional Commission--DeKalb County (North)--Dunwoody City
+13,2100,Three Rivers Regional Commission (North Central)--Coweta County
+13,2200,"Three Rivers Regional Commission (Southwest)--Troup, Meriwether & Heard Counties"
+13,2300,Three Rivers Regional Commission (Northwest)--Carroll County
+13,2400,Atlanta Regional Commission (South Central)--Fayette County
+13,2500,"Northwest Georgia Regional Commission (Southwest)--Floyd, Polk & Haralson Counties"
+13,2600,"Northwest Georgia Regional Commission--Walker, Catoosa, Chattooga & Dade Counties"
+13,2700,Northwest Georgia Regional Commission (North Central)--Whitfield County
+13,2800,Northwest Georgia Regional Commission (Northeast)
+13,2900,Northwest Georgia Regional Commission (East Central)--Bartow County
+13,3001,Atlanta Regional Commission (Northwest)--Cobb County (Central)--Marietta City
+13,3002,Atlanta Regional Commission--Cobb County (Northwest)--Kennesaw & Acworth Cities
+13,3003,Atlanta Regional Commission (Northwest)--Cobb County (Southwest)--Powder Springs City
+13,3004,Atlanta Regional Commission (Northwest)--Cobb County (Southeast)--Smyrna City
+13,3005,Atlanta Regional Commission (Northwest)--Cobb County (Northeast)
+13,3101,Atlanta Regional Commission--Cherokee County (Central)--Woodstock & Canton Cities
+13,3102,Atlanta Regional Commission--Cherokee County (Outside Woodstock & Canton Cities)
+13,3200,Georgia Mountains Regional Commission (North & Northwest)
+13,3300,Georgia Mountains Regional Commission (Southwest)--Forsyth County
+13,3400,Georgia Mountains Regional Commission (South Central)--Hall County
+13,3500,Georgia Mountains Regional Commission (Southeast)
+13,3600,Northeast Georgia Regional Commission (Central)--Clarke County--Athens City
+13,3700,Northeast Georgia Regional Commission (East)
+13,3800,Northeast Georgia Regional Commission (Northwest)--Barrow & Jackson Counties
+13,3900,"Northeast Georgia Regional Commission (Southwest)--Walton, Morgan & Jasper Counties"
+13,4000,Central Savannah River Area Regional Commission (East Central)--Richmond County
+13,4001,Atlanta Regional Commission (Northeast)--Gwinnett County (West Central)--Duluth City
+13,4002,Atlanta Regional Commission (Northeast)--Gwinnett County (North)--Sugar Hill City
+13,4003,Atlanta Regional Commission--Gwinnett County (Central)--Lawrenceville City
+13,4004,Atlanta Regional Commission (Northeast)--Gwinnett County (East)
+13,4005,Atlanta Regional Commission (Northeast)--Gwinnett County (South)--Snellville City
+13,4006,Atlanta Regional Commission (Northeast)--Gwinnett County (Southwest)--Lilburn City
+13,4100,Central Savannah River Area Regional Commission (East Central)--Columbia County
+13,4200,Central Savannah River Area Regional Commission (West & Outside Richmond & Columbia)
+13,4300,Atlanta & Northeast Georgia Regional Commissions--Newton & Rockdale Counties
+13,4400,Atlanta Regional Commission (Southwest)--Douglas County
+13,4500,Northwest Georgia Regional Commission (Southeast)--Paulding County
+13,4600,Atlanta Regional Commission--Fulton County (Central)--Atlanta City (Central)
+13,5001,Atlanta Regional Commission (South Central)--Clayton County (South)
+13,5002,Atlanta Regional Commission (South Central)--Clayton County (North)--Forest Park City
+13,6001,Atlanta Regional Commission (Southeast)--Henry County (South)--McDonough City
+13,6002,Atlanta Regional Commission (Southeast)--Henry County (North)--Stockbridge City
+15,100,"Maui, Kalawao & Kauai Counties"
+15,200,Hawaii County
+15,301,Honolulu County--Rural Oahu
+15,302,Honolulu County--Koolaupoko
+15,303,Honolulu County--East Honolulu to Kapahulu
+15,304,Honolulu County--Tantalus to Waikiki
+15,305,Honolulu County--Nuuanu to Kalihi
+15,306,Honolulu County--Moanalua to Pearl City
+15,307,Honolulu County--Central Oahu
+15,308,Honolulu County--Ewa
+16,100,"Bonner, Latah, Shoshone, Boundary, Benewah & Kootenai (Southeast) Counties"
+16,200,"Kootenai County (Northwest)--Coeur d'Alene, Post Falls & Hayden Cities"
+16,300,Central Idaho--Lewiston City & Nez Perce Reservation
+16,400,"Ada (North), Payette, Canyon (North), Gem & Washington Counties--Eagle City"
+16,500,Canyon (South) & Owyhee Counties--Caldwell & Nampa (South & West) Cities
+16,600,Canyon (East) & Ada (West) Counties--Nampa (Central & East) & Meridian (West) Cities
+16,701,Ada County (Central)--Meridian (Northeast) & Boise (Far West) Cities
+16,702,Ada County (Northeast)--Boise (North & West) & Garden City Cities
+16,800,Ada County (South)--Boise (South) & Kuna Cities
+16,900,Twin Falls & Cassia Counties--Twin Falls City
+16,1000,"Elmore, Jerome, Blaine, Minidoka, Gooding, Lincoln & Camas Counties"
+16,1100,"Bingham (Outside Fort Hall AIR), Madison, Jefferson, Fremont & Teton Counties"
+16,1200,Bonneville County--Idaho Falls City
+16,1300,"Southeast Idaho--Pocatello, Chubbuck Cities & Fort Hall Reservation"
+17,104,"Jo Daviess, Carroll, Whiteside & Lee Counties"
+17,105,Rock Island County
+17,202,"Henry, Mercer, Henderson, Warren, Hancock, McDonough & Fulton Counties"
+17,300,"Adams, Pike, Brown, Schuyler & Mason Counties"
+17,401,"Cass, Morgan, Scott, Greene, Macoupin, Jersey & Calhoun Counties"
+17,501,"Montgomery, Bond, Clinton, Fayette & Effingham Counties"
+17,600,"Douglas, Edgar, Coles & Cumberland Counties"
+17,700,"Clark, Jasper, Crawford, Lawrence, Richland, Clay & Wayne Counties"
+17,800,South & Southeast Illinois
+17,900,"Jackson, Williamson, Franklin & Perry Counties"
+17,1001,"Monroe, Randolph, Washington, Jefferson & Marion Counties"
+17,1104,St. Clair County (Central & Northeast)
+17,1105,"St. Clair County (Northwest, Southwest & Southeast)"
+17,1204,Madison County (East)
+17,1205,"Madison County (West)--Granite City, Alton, Wood River Cities & Godfrey Village"
+17,1300,Sangamon County--Springfield City
+17,1500,Macon County--Decatur City
+17,1602,"Menard, Logan, De Witt, Piatt, Moultrie, Shelby & Christian Counties"
+17,1701,Peoria County--Peoria City
+17,1900,Tazewell County
+17,2000,McLean County
+17,2100,Champaign County--Champaign & Urbana Cities
+17,2200,"Livingston, Ford, Iroquois & Vermilion Counties"
+17,2300,Kankakee County
+17,2400,LaSalle County
+17,2501,"Knox, Stark, Bureau, Marshall & Woodford Counties"
+17,2601,DeKalb County
+17,2700,Stephenson & Ogle Counties
+17,2801,Winnebago County (Southeast & West)--Rockford City
+17,2901,Winnebago (Northeast) & Boone Counties
+17,3005,Kane County (Southeast)--Aurora Township
+17,3007,"Kane County (East)--St. Charles, Batavia (Central) & Geneva (Central) Townships"
+17,3008,Kane County (Northeast)--Elgin (North & Central) & Dundee Townships
+17,3009,Kane County (West)
+17,3102,Will County (West Central)--Joliet & Troy Townships
+17,3105,Will County (Northwest Central)--Plainfield & Lockport Townships
+17,3106,Will County (Northwest)--DuPage & Wheatland Townships
+17,3107,"Will County (Northeast)--Frankfort, Homer & New Lenox (North) Townships"
+17,3108,Will County (South)
+17,3202,DuPage County (Central)--Milton Township
+17,3203,DuPage County (South Central)--Lisle Township
+17,3204,DuPage County (Southeast)--Downers Grove Township
+17,3205,DuPage County (East Central)--York Township
+17,3207,Dupage County (Northeast)--Addison & Bloomingdale (North) Townships
+17,3208,"DuPage County (Northwest)--Bloomingdale (South), Wayne & Winfield (North) Townships"
+17,3209,DuPage County (Southwest)--Naperville & Winfield (South) Townships
+17,3306,"Lake County (Northwest)--Avon, Lake Villa, Antioch & Grant Townships"
+17,3307,"Lake County (Northeast)--Waukegan, Zion, Benton & Newport Townships"
+17,3308,"Lake County (Southwest)--Ela, Freemont, Wauconda & Cuba Townships"
+17,3309,"Lake County (East Central)--Warren, Libertyville (North & East) & Shields Townships"
+17,3310,"Lake County--Vernon, Moraine, West Deerfield & Libertyville (Southeast) Townships"
+17,3401,Cook County (Northwest)--Palatine & Barrington Townships
+17,3407,"Cook County (West Central)--Proviso, Riverside & River Forest Townships"
+17,3408,"Cook County (Central)--Cicero, Berwyn & Oak Park Townships"
+17,3409,Cook County (West Central)--Lyons & Stickney Townships
+17,3410,"Cook County (Southwest)--Orland (West & Central), Palos & Lemont Townships"
+17,3411,Cook County (South Central)--Worth & Calumet Townships
+17,3412,Cook County (South Central)--Bremen & Orland (East) Townships
+17,3413,Cook County (Southeast)--Thornton Township
+17,3414,Cook County (South)--Bloom & Rich Townships
+17,3415,Cook County (North)--Wheeling Township (North & East)
+17,3416,Cook County (Northeast)--Northfield & New Trier Townships
+17,3417,Cook County (Northwest)--Hanover & Schaumburg (Northwest) Townships
+17,3418,Cook County (Northwest)--Schaumburg Township (South & Central)
+17,3419,Cook County (Northwest)--Elk Grove & Wheeling (Southwest) Townships
+17,3420,"Cook County (North)--Maine, Norwood Park Townships & Chicago City--Edison Park"
+17,3421,Cook County (North)--Niles & Evanston Townships
+17,3422,"Cook County (West)--Leyden, Norwood Park (South) Townships & Chicago City--O'Hare"
+17,3501,"Chicago City (North)--Edgewater, Uptown & Rogers Park"
+17,3502,Chicago City (North)--Lake View & Lincoln Park
+17,3503,"Chicago City (North)--West Ridge, Lincoln Square & North Center"
+17,3504,"Chicago City (Northwest)--Irving Park, Albany Park, Forest Glen & North Park"
+17,3520,"Chicago City (Northwest)--Portage Park, Dunning & Jefferson Park"
+17,3521,"Chicago City (West)--Austin, Belmont Cragin & Montclare"
+17,3522,"Chicago City (Northwest)--Logan Square, Avondale & Hermosa"
+17,3523,"Chicago City (West)--North & South Lawndale, Humboldt Park, East & West Garfield Park"
+17,3524,"Chicago City (West)--West Town, Near West Side & Lower West Side"
+17,3525,"Chicago City (Central)--Near North Side, Loop & Near South Side"
+17,3526,"Chicago City (Southwest)--Brighton Park, New City, Bridgeport & McKinley Park"
+17,3527,"Chicago City (Southwest)--Gage Park, Garfield Ridge & West Lawn"
+17,3528,"Chicago City (South)--Chicago Lawn, Englewood/West Englewood & Greater Grand Crossing"
+17,3529,"Chicago City (South)--South Shore, Hyde Park, Woodlawn, Grand Boulevard & Douglas"
+17,3530,"Chicago City (South)--Ashburn, Washington Heights, Morgan Park & Beverly"
+17,3531,"Chicago City (South)--Auburn Gresham, Roseland, Chatham, Avalon Park & Burnside"
+17,3532,"Chicago City (South)--South Chicago, Pullman, West Pullman, East Side & South Deering"
+17,3601,"McHenry County (North, West & Central)"
+17,3602,"McHenry County (Southeast)--Algonquin, McHenry & Nunda Townships"
+17,3700,Kendall & Grundy Counties
+18,101,Lake County (Northwest)--Hammond & East Chicago Cities
+18,102,Lake County (Northeast)--Gary City & Griffith Town
+18,103,Lake County (Central)
+18,104,Lake County (South)
+18,200,Porter County
+18,300,LaPorte County
+18,401,St. Joseph County (North)--South Bend City
+18,402,St. Joseph County (Outside South Bend City)--Mishawaka City
+18,500,Elkhart County--Elkhart & Goshen Cities
+18,600,"Noble, DeKalb, LaGrange & Steuben Counties"
+18,700,"Jasper, Starke, Fulton, Newton & Pulaski Counties"
+18,800,Kosciusko & Marshall Counties
+18,900,"Huntington, Whitley, Adams & Wells Counties"
+18,1001,Allen County (Central)--Fort Wayne City (South)
+18,1002,Allen County (Central)--Fort Wayne City (North)
+18,1003,Allen County (Outside Fort Wayne City)
+18,1100,"Montgomery, Clinton, White, Carroll & Benton Counties"
+18,1200,Tippecanoe County--Lafayette & West Lafayette Cities
+18,1300,"Howard, Cass & Tipton Counties--Kokomo City"
+18,1400,"Grant, Miami & Wabash Counties"
+18,1500,"Henry, Randolph, Jay & Blackford Counties"
+18,1600,"Clay, Sullivan, Parke, Fountain, Vermillion & Warren Counties"
+18,1700,Vigo County--Terre Haute City
+18,1801,Boone & Hamilton (Northwest) Counties
+18,1802,Hamilton County (Central)--Carmel City & Fishers Town (West)
+18,1803,Hamilton County (East)--Noblesville City & Fishers Town (East)
+18,1900,Madison County--Anderson City
+18,2000,Delaware County--Muncie City
+18,2100,"Morgan, Putnam & Brown Counties"
+18,2200,Hendricks County
+18,2301,Marion County--Pike & Washington (Northwest) Townships--Indianapolis City (Northwest)
+18,2302,Marion County--Washington Township (South & East)--Indianapolis City (North)
+18,2303,Marion County--Lawrence Township--Indianapolis (Northeast) & Lawrence Cities
+18,2304,Marion County--Wayne & Decatur (Northwest) Townships--Indianapolis City (West)
+18,2305,Marion County--Center Township--Indianapolis City (Central)
+18,2306,Marion County--Warren & Franklin Townships--Indianapolis City (East & Southeast)
+18,2307,Marion County--Perry & Decatur (South & East) Townships--Indianapolis City (South)
+18,2400,Johnson County--Greenwood City
+18,2500,Hancock & Shelby Counties
+18,2600,"Wayne, Fayette, Rush & Union Counties"
+18,2700,"Greene, Daviess, Owen, Orange & Martin Counties"
+18,2800,Monroe County--Bloomington City
+18,2900,Bartholomew & Jackson Counties--Columbus City
+18,3000,"Jefferson, Jennings, Decatur & Scott Counties"
+18,3100,"Dearborn, Franklin, Ripley, Switzerland & Ohio Counties"
+18,3200,"Warrick, Gibson & Posey Counties"
+18,3300,Vanderburgh County--Evansville City
+18,3400,"Dubois, Knox, Spencer, Perry, Pike & Crawford Counties"
+18,3500,"Floyd, Harrison & Washington Counties"
+18,3600,Clark County--Jeffersonville City
+19,100,"Sioux, Clay, Dickinson, O'Brien, Lyon, Emmet, Palo Alto & Osceola Counties"
+19,200,"Cerro Gordo, Floyd, Kossuth, Hancock, Winnebago, Mitchell & Worth Counties"
+19,400,"Bremer, Winneshiek, Fayette, Clayton, Allamakee, Chickasaw & Howard Counties"
+19,500,Black Hawk County--Waterloo & Cedar Falls Cities
+19,600,"Webster, Hardin, Hamilton, Butler, Wright, Grundy, Franklin & Humboldt Counties"
+19,700,"Dubuque, Buchanan, Jackson & Delaware Counties--Dubuque City"
+19,800,"Clinton, Muscatine, Jones & Cedar Counties"
+19,900,Scott County--Davenport City
+19,1000,Linn County--Cedar Rapids City
+19,1100,Johnson County--Iowa City
+19,1200,"Marshall, Benton, Poweshiek, Tama & Iowa Counties"
+19,1300,Story & Boone Counties--Ames City
+19,1400,"Warren, Jasper, Marion, Dallas (West) & Madison Counties"
+19,1500,Polk (Southwest) & Dallas (East) Counties--West Des Moines & Urbandale Cities
+19,1600,Polk County (East)--Ankeny & Altoona Cities
+19,1700,Des Moines City
+19,1800,South Central Iowa
+19,1900,"Northwest Central Iowa--Storm Lake, Denison & Cherokee Region"
+19,2000,Woodbury & Plymouth Counties--Sioux City
+19,2100,Southwest Iowa--Council Bluffs City
+19,2200,"Wapello, Mahaska, Washington, Jefferson, Keokuk, Davis & Van Buren Counties"
+19,2300,"Des Moines, Lee, Henry & Louisa Counties"
+20,100,Northwest Kansas
+20,200,North Central Kansas--Salina City
+20,300,"Riley, Geary & Pottawatomie Counties--Manhattan City"
+20,400,Northeast Kansas
+20,500,Wyandotte County--Kansas City
+20,601,"Johnson County (Northwest)--Shawnee, Lenexa & De Soto Cities"
+20,602,"Johnson County (Northeast)--Overland Park (North), Prairie Village & Merriam Cities"
+20,603,"Johnson County (Southwest)--Olathe, Gardner, Spring Hill & Edgerton Cities"
+20,604,Johnson County (Southeast)--Blue Valley Region
+20,700,Douglas County--Lawrence City
+20,801,Shawnee County (Central)--Topeka City
+20,802,"Shawnee (Outside Topeka City), Osage, Jackson, Brown & Wabaunsee Counties"
+20,900,Flint Hills Region--Emporia City
+20,1000,Central Kansas--Hutchinson City
+20,1100,South Central Kansas
+20,1200,"Southwest Kansas--Dodge City, Garden City & Liberal City"
+20,1301,Sedgwick (Northwest) & Harvey Counties--Wichita (Northwest) & Newton Cities
+20,1302,Sedgwick (Northeast) & Butler (North & East) Counties--Wichita City (Northeast)
+20,1303,Sedgwick County (Central)--Wichita City (Central)
+20,1304,Sedgwick (South) & Butler (Southwest) Counties--Wichita (South) & Derby Cities
+20,1400,East Central Kansas
+20,1500,Southeast Kansas
+21,100,Purchase Area Development District
+21,200,Pennyrile Area Development District (North)
+21,300,Pennyrile Area Development District (South)
+21,400,Barren River Area Development District (Outer)
+21,500,Barren River Area Development District (Central)--Warren County
+21,600,Lake Cumberland Area Development District (West)
+21,700,Lake Cumberland Area Development District (East)
+21,800,Cumberland Valley Area Development District (North)
+21,900,Cumberland Valley Area Development District (South)
+21,1000,Kentucky River Area Development District
+21,1100,Big Sandy Area Development District
+21,1200,Lincoln Trail Area Development District (East)
+21,1300,Lincoln Trail Area Development District (West)
+21,1400,Green River Area Development District (Southwest)
+21,1500,Green River Area Development District (Northeast)--Daviess & Hancock Counties
+21,1600,KIPDA Area Development District (Southeast)
+21,1701,KIPDA Area Development District (West)--Louisville/Jefferson County (Northwest)
+21,1702,KIPDA Area Development District (West)--Louisville/Jefferson County (North Central)
+21,1703,KIPDA Area Development District (West)--Louisville/Jefferson County (Northeast)
+21,1704,KIPDA Area Development District (West)--Louisville/Jefferson County (Southeast)
+21,1705,KIPDA Area Development District (West)--Louisville/Jefferson County (South Central)
+21,1706,KIPDA Area Development District (West)--Louisville/Jefferson County (Southwest)
+21,1800,KIPDA Area Development District (Northeast)
+21,1901,Bluegrass Area Development District (Central)--Lexington-Fayette County (Central)
+21,1902,Bluegrass Area Development District (Central)--Lexington-Fayette County (Outer)
+21,2000,Bluegrass Area Development District (West)
+21,2100,Bluegrass Area Development District (South)
+21,2200,Bluegrass Area Development District (Southeast)
+21,2300,Bluegrass Area Development District (Northeast)
+21,2400,Northern Kentucky Area Development District (North Central)--Kenton County
+21,2500,Northern Kentucky Area Development District (Northwest)--Boone County
+21,2600,Northern Kentucky Area Development District (Southeast)
+21,2700,Buffalo Trace & Gateway Area Development Districts
+21,2800,FIVCO Area Development District
+22,100,Coordinating & Development Corporation 1--Shreveport City (North)
+22,101,Coordinating & Development Corporation 2--Shreveport City (South)
+22,200,Coordinating & Development Corporation 3--Bossier & Webster Parishes
+22,300,Coordinating & Development Corporation 4--Northwest Louisiana
+22,400,North Delta Regional Planning & Development District 1--Ouachita Parish
+22,500,North Delta Regional Planning & Development District 2--Northeast Louisiana
+22,600,Kisatchie Delta Regional Planning & Development District 1
+22,700,Kisatchie Delta Regional Planning & Development District 2--Rapides & Vernon Parishes
+22,800,Imperial Calcasieu Regional Planning & Development District 1 (North)
+22,900,Imperial Calcasieu Regional Planning & Development District 2 (South)
+22,1000,Acadiana Regional Development District 1--St. Landry & Evangeline Parishes
+22,1100,Acadiana Regional Development District 2--Acadia & Vermilion Parishes
+22,1200,Acadiana Regional Development District 3--Lafayette Parish (North)
+22,1201,Acadiana Regional Development District 4--Lafayette Parish (South)
+22,1300,"Acadiana Regional Development District 5--Iberia, St. Mary & St. Martin Parishes"
+22,1400,Capital Region Planning Commission 1--Baton Rouge Metropolitan Area (West)
+22,1500,Capital Region Planning Commission 2--East Baton Rouge Parish (South)
+22,1501,Capital Region Planning Commission 3--Baton Rouge City
+22,1502,Capital Region Planning Commission 4--East Baton Rouge Parish (North)
+22,1600,Capital Region Planning Commission 5--Ascension Parish
+22,1700,Capital Region Planning Commission 6--Livingston & St. Helena Parishes
+22,1800,Capital Region Planning Commission 7--Tangipahoa & Washington Parishes
+22,1900,South Central Planning & Development Commission 1--River Parishes
+22,2000,South Central Planning & Development Commission 2--Lafourche & Assumption Parishes
+22,2100,South Central Planning & Development Commission 3--Terrebonne Parish
+22,2200,Regional Planning Commission 1--St. Tammany Parish (Northwest)
+22,2201,Regional Planning Commission 2--St. Tammany Parish (Southeast)
+22,2300,Regional Planning Commission 3--Jefferson Parish (North)
+22,2301,Regional Planning Commission 4--Jefferson Parish (Central)
+22,2302,Regional Planning Commission 5--Jefferson Parish (West Bank)
+22,2400,Regional Planning Commission 6--New Orleans City (Northeast)
+22,2401,Regional Planning Commission 7--New Orleans City (Central)
+22,2402,Regional Planning Commission 8--New Orleans City (South)
+22,2500,"Regional Planning Commission 9--St. Bernard, Jefferson (South) & Plaquemines Parishes"
+23,100,Northeast Maine--Aroostook & Washington Counties
+23,200,"Northwest Maine--Oxford, Somerset, Franklin & Piscataquis Counties"
+23,300,Penobscot County
+23,400,Kennebec County
+23,500,"Coastal Maine Region--Hancock, Knox, Waldo & Lincoln Counties"
+23,600,Androscoggin County
+23,700,Sagadahoc & Cumberland (North) Counties--Bath City & Brunswick
+23,800,South Maine--York (West) & Cumberland (West) Counties
+23,900,Cumberland (Outside Portland) & York (East) Counties--Biddeford & Saco Cities
+23,1000,"Cumberland County (Southeast)--Portland, South Portland & Westbrook Cities"
+24,100,Allegany & Garrett Counties--Cumberland City
+24,200,Washington County--Hagerstown City
+24,301,Frederick County (Outside Greater Frederick City)
+24,302,Frederick County (Central)--Greater Frederick City
+24,400,Carroll County
+24,501,Baltimore County (Outer)
+24,502,"Baltimore County--Randallstown (East), Owings Mills, Milford Mill & Reisterstown"
+24,503,"Baltimore County--Pikesville (South), Lochearn, Cockeysville & Mays Chapel"
+24,504,"Baltimore County--Towson (East & Central), Parkville & Carney"
+24,505,"Baltimore County--Perry Hall, Middle River & Rosedale"
+24,506,"Baltimore County--Dundalk, Essex & Edgemere"
+24,507,"Baltimore County--Catonsville, Woodlawn & Arbutus"
+24,601,"Harford County (North & West)--Bel Air Town, Fallston & Jarrettsville"
+24,602,Harford County (South & East)--Aberdeen & Havre de Grace Cities
+24,700,Cecil County
+24,801,"Baltimore City--Sandtown-Winchester, Ashburton & Mount Washington"
+24,802,"Baltimore City--Guilford, Roland Park & Druid Lake"
+24,803,"Baltimore City--Frankford, Belair-Edison & Loch Raven"
+24,804,"Baltimore City--Inner Harbor, Canton & Bayview"
+24,805,"Baltimore City--Irvington, Ten Hills & Cherry Hill"
+24,901,Howard County (West)--Columbia (West) & Ellicott City (Northwest)
+24,902,"Howard County (East)--Columbia (East), Ellicott City (Southeast) & Elkridge"
+24,1001,"Montgomery County (North & West)--Olney, Damascus, Clarksburg & Darnestown"
+24,1002,Montgomery County (West Central)--Germantown & Montgomery Village
+24,1003,"Montgomery County (Central)--Rockville, Gaithersburg Cities & North Potomac"
+24,1004,"Montgomery County (South)--Bethesda, Potomac & North Bethesda"
+24,1005,"Montgomery County (East Central)--Wheaton, Aspen Hill & Glenmont"
+24,1006,"Montgomery County (East)--Fairland, Calverton, White Oak & Burtonsville"
+24,1007,Montgomery County (Southeast)--Takoma Park City & Silver Spring
+24,1101,Prince George's County (Northwest)--College Park City & Langley Park
+24,1102,"Prince George's County (North)--Laurel, Greenbelt (North & East) Cities & Beltsville"
+24,1103,Prince George's County (Northwest)--New Carrollton & Hyattsville (Southeast) Cities
+24,1104,"Prince George's County (Central)--Seat Pleasant City, Capitol Heights Town & Landover"
+24,1105,"Prince George's County (East)--Bowie City, Kettering, Largo, Mitchellville & Lanham"
+24,1106,"Prince George's County (South)--Clinton, Fort Washington (South), Rosaryville & Croom"
+24,1107,"Prince George's County (Southwest)--Oxon Hill, Hillcrest Heights & Temple Hills"
+24,1201,"Anne Arundel County (Northwest)--Severn, Odenton, Crofton, Maryland City & Fort Meade"
+24,1202,"Anne Arundel County (North)--Glen Burnie, Pasadena, Ferndale & Brooklyn Park"
+24,1203,"Anne Arundel County (Central)--Severna Park, Arnold & Lake Shore"
+24,1204,"Anne Arundel County (Southeast)--Annapolis City, Parole, Annapolis Neck & Edgewater"
+24,1300,"Queen Anne's, Talbot, Caroline, Dorchester & Kent Counties"
+24,1400,"Wicomico, Worcester & Somerset Counties--Salisbury City"
+24,1500,St. Mary's & Calvert Counties
+24,1600,Charles County--La Plata Town & Waldorf
+25,100,Berkshire County--Pittsfield City
+25,200,Franklin & Hampshire (North) Counties
+25,300,Worcester County (Central)--Worcester City
+25,301,"Worcester County (Northeast)--Leominster, Fitchburg & Gardner Cities"
+25,302,Worcester County (West Central)
+25,303,Worcester County (East Central)
+25,304,Worcester County (South)
+25,400,"Worcester & Middlesex Counties (Outside Leominster, Fitchburg & Gardner Cities)"
+25,501,Middlesex County (Outside Lowell City)
+25,502,Middlesex County (Far Northeast)--Lowell City
+25,503,"Middlesex County--Waltham City, Lexington, Burlington, Bedford & Lincoln Towns"
+25,504,"Middlesex County (South)--Framingham Town, Marlborough City & Natick Town"
+25,505,"Middlesex County--Watertown Town City, Arlington, Belmont & Winchester Towns"
+25,506,Middlesex County (East)--Cambridge City
+25,507,Middlesex County (East)--Somerville & Everett Cities
+25,508,Middlesex County (East)--Malden & Medford Cities
+25,701,"Essex County (Northwest)--Lawrence, Haverhill & Methuen Town Cities"
+25,702,Essex County (Central)--Amesbury Town City
+25,703,"Essex County (East)--Salem, Beverly, Gloucester & Newburyport Cities"
+25,704,"Essex County (South)--Lynn City, Swampscott & Nahant Towns"
+25,1000,"Peabody City, Danvers, Reading, North Reading & Lynnfield Towns"
+25,1300,"Billerica, Andover, Tewksbury & Wilmington Towns"
+25,1400,Middlesex (West Central) & Worcester (East) Counties
+25,1600,Hampden (West & East) & Hampshire (South) Counties--Northampton City
+25,1900,Hampden County (Central)--Springfield City
+25,1901,Hampden County (West of Springfield City)--Westfield & Holyoke Cities
+25,1902,Hampden County (East of Springfield City)--Chicopee City
+25,2400,"Middlesex (Far Southwest), Norfolk (Northwest) & Worcester (Far East) Counties"
+25,2800,"Woburn, Melrose Cities, Saugus, Wakefield & Stoneham Towns"
+25,3301,"Boston City--Allston, Brighton & Fenway"
+25,3302,"Boston City--Back Bay, Beacon Hill, Charlestown, East Boston, Central & South End"
+25,3303,Boston City--Dorchester & South Boston
+25,3304,Boston City--Mattapan & Roxbury
+25,3305,"Boston City--Hyde Park, Jamaica Plain, Roslindale & West Roxbury"
+25,3306,"Suffolk County (North)--Revere, Chelsea & Winthrop Town Cities"
+25,3400,Middlesex (Southeast) & Norfolk (Northeast) Counties--Newton City & Brookline Town
+25,3500,Norfolk (Northeast) & Middlesex (Southeast) Counties (West of Boston City)
+25,3601,Norfolk County (Southwest)--Greater Franklin Town City
+25,3602,"Norfolk County (Central)--Randolph, Norwood, Dedham, Canton & Holbrook Towns"
+25,3603,Norfolk County (Northeast)--Quincy City & Milton Town
+25,3900,"Weymouth Town, Braintree Town Cities, Hingham, Hull & Cohasset Towns"
+25,4000,"Plymouth & Norfolk Counties--Brockton City, Stoughton & Avon Towns"
+25,4200,"Attleboro City, North Attleborough, Swansea, Seekonk, Rehoboth & Plainville Towns"
+25,4301,Bristol (Outside New Bedford City) & Plymouth (South) Counties
+25,4302,Bristol County (Central)--Fall River City & Somerset Town
+25,4303,"Bristol County--Taunton City, Mansfield, Norton, Raynam, Dighton & Berkley Towns"
+25,4500,Bristol County (South)--New Bedford City & Fairhaven Town
+25,4700,Barnstable County (West)--Inner Cape Cod Towns & Barnstable Town City
+25,4800,"Barnstable (East), Dukes & Nantucket Counties--Outer Cape Cod Towns"
+25,4901,Plymouth & Bristol Counties (Outside Brockton City)
+25,4902,Plymouth County (Central)
+25,4903,"Plymouth County (East)--Plymouth, Marshfield, Scituate, Duxbury & Kingston Towns"
+26,100,Western Upper Peninsula
+26,200,Eastern Upper Peninsula
+26,300,Northeast Lower Peninsula
+26,400,Northwest Lower Peninsula (East)
+26,500,Northwest Lower Peninsula (West)
+26,600,"Newaygo, Mason, Oceana & Lake Counties"
+26,700,Muskegon County
+26,801,Ottawa County (West)
+26,802,Ottawa County (East)
+26,900,Allegan County
+26,1001,Kent County (Southwest)
+26,1002,Kent County (Central)--Grand Rapids City Area
+26,1003,Kent County (Southeast)
+26,1004,Kent County (North)
+26,1100,"Ionia, Montcalm, Mecosta & Osceola Counties"
+26,1200,"Isabella, Gratiot & Clare Counties"
+26,1300,"Iosco, Gladwin, Roscommon, Ogemaw & Arenac Counties"
+26,1400,Bay & Midland Counties
+26,1500,Saginaw County
+26,1600,"Tuscola, Sanilac & Huron Counties"
+26,1701,Genesee (East) & Lapeer Counties
+26,1702,"Genesee County (Central, Outside Flint City)"
+26,1703,Genesee County (Central)--Flint City Area
+26,1704,Genesee (West) & Shiawassee Counties
+26,1801,Ingham County (South & East)
+26,1802,Ingham County (Northwest)
+26,1900,Eaton & Clinton Counties
+26,2000,Calhoun & Barry Counties
+26,2101,Kalamazoo County (Outer)
+26,2102,Kalamazoo County (Central)--Kalamazoo & Portage Cities Area
+26,2200,St. Joseph & Branch Counties
+26,2300,Van Buren & Cass Counties
+26,2400,Berrien County
+26,2500,Lenawee & Hillsdale Counties
+26,2600,Jackson County
+26,2701,"Washtenaw County (West, Northeast & Southeast)"
+26,2702,Washtenaw County (East Central)--Ann Arbor City Area
+26,2703,"Washtenaw County (East Central, Outside Ann Arbor City)"
+26,2800,Livingston County
+26,2901,Oakland County (West)
+26,2902,Oakland County (Northeast)
+26,2903,Oakland County (East Central)--Troy & Rochester Area
+26,2904,Oakland County (Central)
+26,2905,Oakland County (Southwest)
+26,2906,Oakland County (Central)--Birmingham & Bloomfield Area
+26,2907,Oakland County (South Central)--Farmington & Southfield Area
+26,2908,Oakland County (Southeast)
+26,3001,Macomb County (North)
+26,3002,Macomb County (Central)
+26,3003,Macomb County (Southwest)--Sterling Heights City
+26,3004,Macomb County (Southeast)--Mount Clemens & Fraser Area
+26,3005,"Macomb County (Southeast)--St. Clair Shores, Roseville & Eastpointe Area"
+26,3006,Macomb County (Southwest)--Warren & Center Line Cities
+26,3100,St. Clair County
+26,3201,Wayne County (Northwest)
+26,3202,Wayne County (North Central)--Livonia City & Redford Charter Township
+26,3203,Wayne County (Central)--Dearborn & Dearborn Heights Cities
+26,3204,"Wayne County (Central)--Westland, Garden City, Inkster & Wayne Cities"
+26,3205,Wayne County (Southwest)
+26,3206,Wayne County (Southeast)--Downriver Area (South)
+26,3207,Wayne County (Southeast)--Downriver Area (North)
+26,3208,Detroit City (Northwest)
+26,3209,Detroit City (North Central)
+26,3210,Detroit City (Northeast)
+26,3211,Detroit City (South Central & Southeast)
+26,3212,Detroit City (Southwest)
+26,3213,Wayne County (Northeast)--I-94 Corridor
+26,3300,Monroe County
+27,100,"Clay, Polk, Roseau, Pennington, Marshall, Norman, Kittson & Red Lake Counties"
+27,200,"Beltrami, Becker, Hubbard, Clearwater, Mahnomen & Lake of the Woods Counties"
+27,300,"Itasca, Carlton (South), Cass & Aitkin Counties--Grand Rapids City"
+27,400,"St. Louis (North), Koochiching, Lake & Cook Counties--Hibbing & Cloquet Cities"
+27,500,"St. Louis County (Southeast)--Duluth, Hermantown & Proctor Cities"
+27,600,"Chisago, Isanti, Pine, Mille Lacs & Kanabec Counties"
+27,700,"Crow Wing, Morrison, Todd & Wadena Counties"
+27,800,West Central Minnesota
+27,900,Stearns County--St. Cloud City
+27,1000,Sherburne & Benton Counties
+27,1101,"Anoka County (Northwest)--Andover, Ramsey, Anoka & East Bethel Cities"
+27,1102,"Anoka County (Southwest)--Coon Rapids, Fridley & Columbia Heights Cities"
+27,1103,"Anoka County (East)--Blaine, Lino Lakes & Ham Lake Cities"
+27,1201,"Washington County (North)--Oakdale, Forest Lake, Stillwater & Hugo Cities"
+27,1202,Washington County (South)--Woodbury & Cottage Grove Cities
+27,1301,"Ramsey County (North)--Shoreview, White Bear Lake & New Brighton Cities"
+27,1302,"Ramsey County (Central & Far Southeast)--Maplewood, Roseville & North St. Paul Cities"
+27,1303,Ramsey County (Southeast)--St. Paul City (East)
+27,1304,Ramsey County (Southwest)--St. Paul City (West)
+27,1401,"Hennepin County (West)--Champlin, Rogers Cities & Lake Minnetonka"
+27,1402,"Hennepin County--Plymouth, Maple Grove (West) & Medicine Lake Cities"
+27,1403,"Hennepin County--Brooklyn Park, Maple Grove (East) & Osseo Cities"
+27,1404,"Hennepin County--Brooklyn Center, Golden Valley, New Hope & Robbinsdale Cities"
+27,1405,Hennepin County--Minneapolis (North) & St. Anthony Cities
+27,1406,Hennepin County--Minneapolis City (Southeast)
+27,1407,Hennepin County--Minneapolis City (Southwest)
+27,1408,"Hennepin County--Edina, St. Louis Park & Hopkins Cities"
+27,1409,Hennepin County--Eden Prairie & Minnetonka Cities
+27,1410,Hennepin County--Bloomington & Richfield Cities
+27,1501,"Dakota County (North)--Eagan, Inver Grove Heights & South St. Paul Cities"
+27,1502,"Dakota County (South)--Lakeville, Hastings, Rosemount & Farmington Cities"
+27,1503,Dakota County (West)--Burnsville & Apple Valley Cities
+27,1600,"Scott County (East)--Shakopee, Savage & Prior Lake Cities"
+27,1700,Carver & Scott (West) Counties
+27,1800,Wright County
+27,1900,"Kandiyohi, McLeod, Meeker, Renville & Sibley Counties"
+27,2000,"Brown, Lyon, Redwood, Chippewa, Yellow Medicine, Lac qui Parle & Lincoln Counties"
+27,2100,Southwest Minnesota
+27,2200,"Blue Earth, Nicollet & Waseca Counties--Mankato City"
+27,2300,"Rice, Goodhue & Le Sueur Counties"
+27,2400,"Mower, Steele, Freeborn & Dodge Counties"
+27,2500,Olmsted County--Rochester City
+27,2600,"Winona, Wabasha, Fillmore & Houston Counties--Winona City"
+28,100,North Delta Region--DeSoto County--Southaven City
+28,200,"Northeast Region--Marshall, Alcorn, Prentiss, Tippah, Tishomingo & Benton Counties"
+28,300,"North Delta Region--Panola, Tate, Coahoma, Tallahatchie, Tunica & Quitman Counties"
+28,400,"Three Rivers Region--Lafayette, Monroe, Itawamba, Chickasaw & Calhoun Counties"
+28,500,"Three Rivers Region--Lee, Pontotoc & Union Counties--Tupelo City"
+28,600,"Golden Triangle Region--Starkville, Columbus & West Point Cities"
+28,700,North Central Region
+28,800,South Delta Region
+28,900,Central Region--Madison & Yazoo Counties
+28,1000,Central Region--Jackson (West & South) & Clinton (South & East) Cities
+28,1100,Central Region--Jackson City (East & Central)
+28,1200,"Central Region--Hinds (West), Warren & Copiah Counties--Vicksburg City"
+28,1300,Central Region--Rankin & Simpson Counties
+28,1400,"East Central Region--Neshoba, Scott, Leake, Jasper, Smith & Kemper Counties"
+28,1500,"East Central Region--Lauderdale, Newton & Clarke Counties--Meridian City"
+28,1600,Southwest Region
+28,1700,"South Region--Jones, Wayne, Covington, Greene & Jefferson Davis Counties"
+28,1800,"South Region--Forrest, Lamar, Marion & Perry Counties--Hattiesburg City"
+28,1900,"South Region--Pearl River, Hancock, George & Stone Counties"
+28,2000,South Region--Harrison County--Gulfport & Biloxi Cities
+28,2100,South Region--Jackson County
+29,100,Northwest Missouri
+29,200,"Buchanan, Andrew & DeKalb Counties"
+29,300,Northeast Missouri
+29,400,"Lincoln, Warren, Audrain, Pike & Montgomery Counties"
+29,500,"Cole, Callaway, Moniteau & Osage Counties"
+29,600,Boone County
+29,700,"Pettis, Randolph, Saline, Cooper, Howard, Carroll & Chariton Counties"
+29,800,"Johnson, Lafayette, Ray, Clinton & Caldwell Counties"
+29,901,Clay County (Northeast)
+29,902,"Kansas City (North Central), Gladstone City & North Kansas City"
+29,903,Platte County
+29,1001,Jackson County--Kansas City (Central)
+29,1002,Jackson County (North Central)
+29,1003,Jackson County (East)
+29,1004,Jackson County (South Central)
+29,1005,Jackson County--Kansas City (South)
+29,1100,Cass & Bates Counties
+29,1200,"Lawrence, Henry, Vernon, Cedar, Barton, St. Clair & Dade Counties"
+29,1300,"Laclede, Polk, Benton, Dallas & Hickory Counties"
+29,1400,"Pulaski, Camden, Miller & Morgan Counties"
+29,1500,"Phelps, Crawford, Dent, Gasconade & Maries Counties"
+29,1600,Franklin County
+29,1701,St. Charles County (South)
+29,1702,St. Charles County (Northwest)
+29,1703,St. Charles County (Northeast)
+29,1801,St. Louis County (Northeast)
+29,1802,St. Louis County (Northwest)
+29,1803,St. Louis County (Inner Ring North)
+29,1804,St. Louis County (West)
+29,1805,St. Louis County (Central)
+29,1806,St. Louis County (Central West)
+29,1807,St. Louis County (Inner Ring South)
+29,1808,St. Louis County (South)
+29,1901,St. Louis City (North)
+29,1902,St. Louis City (South)
+29,2001,Jefferson County (North)
+29,2002,Jefferson County (South)
+29,2100,"St. Francois, Washington, Perry & Ste. Genevieve Counties"
+29,2200,"Cape Girardeau, Scott & Bollinger Counties"
+29,2300,"Dunklin, Stoddard, New Madrid, Pemiscot & Mississippi Counties"
+29,2400,"Butler, Ripley, Wayne, Madison, Iron, Reynolds & Carter Counties"
+29,2500,"Howell, Texas, Wright, Douglas, Oregon, Ozark & Shannon Counties"
+29,2601,"Christian, Greene (Outside Springfield City) & Webster Counties"
+29,2602,Greene County--Springfield City (North)
+29,2603,Greene County--Springfield City (South)
+29,2700,"Taney, Barry, Stone & McDonald Counties"
+29,2800,Jasper & Newton Counties
+30,100,Northwest Montana--Kalispell City
+30,200,West Montana--Missoula City
+30,300,Southwest Montana--Butte-Silver Bow & Helena City
+30,400,North Central Montana--Great Falls City
+30,500,South Central Montana--Bozeman City
+30,600,East Montana (Outside Billings City)
+30,700,Billings City
+31,100,North Central & Northwest Nebraska
+31,200,Northeast Nebraska
+31,300,Central Nebraska
+31,400,Southwest Nebraska
+31,500,South Central Nebraska
+31,600,Southeast Nebraska
+31,701,"Dodge, Cass, Saunders & Washington Counties"
+31,702,Sarpy County--Bellevue City
+31,801,Lancaster County--Lincoln City (North)
+31,802,Lancaster County--Lincoln City (South)
+31,901,Douglas County--Omaha City (Northwest)
+31,902,Douglas County--Omaha City (Southwest)
+31,903,Douglas County--Omaha City (Northeast)
+31,904,Douglas County--Omaha City (Southeast)
+32,101,Washoe County (South Central)--Reno City
+32,102,Washoe County (South)
+32,103,Washoe County (North)--Sparks City
+32,200,"Carson City, Lyon, Douglas & Storey Counties"
+32,300,Rural Nevada
+32,401,Clark County (Northwest Central)--Northwest Las Vegas Valley
+32,402,Clark County (North)--Las Vegas (Northeast) & North Las Vegas (Outer) Cities
+32,403,Clark County (Central)--Greater North Las Vegas City
+32,404,"Clark County (East)--Mesquite City, Sunrise Manor (North), Moapa Valley & Nellis AFB"
+32,405,Las Vegas City (Southeast)
+32,406,Las Vegas City (South Central)
+32,407,Clark County (West)--Las Vegas City (Southwest)
+32,408,Clark County (Central)--Spring Valley & Summerlin South
+32,409,Clark County (Central)--Paradise (Northwest) & Winchester
+32,410,"Clark County (Central)--Whitney, Sunrise Manor (South) & Paradise (Northeast)"
+32,411,Clark County (Central)--Henderson City (West)
+32,412,Clark County (South)--Henderson (East) & Boulder Cities
+32,413,Clark County (Central)--Paradise (South) & Enterprise
+33,100,Northern New Hampshire--Grafton & Coos Counties
+33,200,"Lakes Region--Belknap, Carroll & Merrimack (Northern) Counties"
+33,300,"Strafford Region--Strafford, Rockingham (Northern) & Carroll (Southeastern) Counties"
+33,400,Central New Hampshire--Merrimack County (Central)--Concord City
+33,500,Southwestern New Hampshire--Cheshire & Sullivan Counties
+33,600,Hillsborough County (Western)
+33,700,Outer Manchester City
+33,800,Manchester City
+33,900,Hillsborough County (Southeastern)--Greater Nashua City
+33,1000,Seacoast Region--Rockingham County (Southern)--Portsmouth City
+34,101,Atlantic County (East)--Atlantic City & Ventnor City
+34,102,Atlantic County (Outside Somers Point City)--Pleasantville City & Hammonton Town
+34,301,Bergen County (South Central)--Hackensack & Englewood (West) Cities
+34,302,"Bergen County (Southwest)--Rutherford, North Arlington & Hasbrouck Heights Boroughs"
+34,303,"Bergen County (Southeast)--Fort Lee, Cliffside Park & Palisades Park Boroughs"
+34,304,"Bergen County (West Central)--Fair Lawn Borough, Garfield City & Lodi Borough"
+34,305,"Bergen County (East)--Tenafly, Park Ridge & Cresskill Boroughs"
+34,306,"Bergen County (Northwest)--Ramsey, Oakland & Franklin Lakes Boroughs"
+34,307,"Bergen County (North Central)--Bergenfield, Paramus, Dumont & New Milford Boroughs"
+34,308,"Bergen County (Central)--Ridgewood Village, Glen Rock & Westwood Boroughs"
+34,400,Passaic County (Southeast)--Paterson City
+34,501,Passaic County (South)--Passaic & Clifton (Southeast) Cities
+34,502,Passaic County (Central)--Hawthorne Borough & Clifton City (Northwest)
+34,503,"Passaic County (North)--Ringwood, Wanaque & Pompton Lakes Boroughs"
+34,601,Hudson County (Central)--Jersey City (North)
+34,602,Hudson County (Central)--Jersey City (South)
+34,701,"Hudson County (North)--West New York, Secaucus & Guttenberg Towns"
+34,702,Hudson County (Northeast)--Union City & Hoboken Cities
+34,703,"Hudson County (South & West)--Bayonne City, Kearney & Harrison Towns"
+34,800,Hunterdon County
+34,901,Middlesex County (Southeast)
+34,902,Middlesex County (Southwest)
+34,903,Middlesex County (Northwest)--South Plainfield & Middlesex Boroughs
+34,904,Middlesex County (North Central)--Metuchen Borough
+34,905,Middlesex County (Northeast)--Carteret Borough
+34,906,"Middlesex County (Central)--New Brunswick City, South River & Highland Park Boroughs"
+34,907,Middlesex County (East Central)--Perth Amboy City & Sayreville Borough
+34,1001,Somerset County (North & West)
+34,1002,Somerset County (South)
+34,1003,Somerset County (Central)--North Plainfield & Somerville Boroughs
+34,1101,Monmouth County (Southeast)--Tinton Falls Borough (South)
+34,1102,Monmouth County (Southwest)--Freehold Borough
+34,1103,"Monmouth County (East Central)--Long Branch, Asbury Park Cities & Eatontown Borough"
+34,1104,Monmouth County (Northeast)--Red Bank & Tinton Falls (North) Boroughs
+34,1105,Monmouth County (Northwest)--Keansburg Borough
+34,1106,Monmouth County (Central)
+34,1201,Ocean County (South)
+34,1202,Ocean County (Central)--Beachwood Borough
+34,1203,Ocean County (North Central)
+34,1204,Ocean County (Northwest)
+34,1205,Ocean County (Northeast)--Point Pleasant Borough
+34,1301,Essex County (Southeast)--Newark City (North & East)
+34,1302,Essex County (Southeast)--Newark City (Southwest)
+34,1401,Essex County (Northeast)
+34,1402,Essex County (South Central)--East Orange City
+34,1403,Essex County (Northwest)
+34,1404,Essex County (Southwest)
+34,1501,Morris County (North)--Dover Town & Kinnelon Borough
+34,1502,Morris County (West)
+34,1503,Morris County (East)--Lincoln Park Borough
+34,1504,"Morris County (South)--Morristown Town, Madison & Florham Park Boroughs"
+34,1600,Sussex County
+34,1700,Warren County
+34,1800,Union County (Northeast)--Elizabeth City
+34,1901,Union County (North Central)--Roselle Park Borough
+34,1902,Union County (Northwest)--Summit City & Westfield Town (North)
+34,1903,Union County (Southwest)--Plainfield City & Westfield Town (South)
+34,1904,"Union County (Southeast)--Linden, Rahway Cities & Roselle Borough (South)"
+34,2001,Burlington County (North)--Burlington City
+34,2002,Burlington County (West Central)
+34,2003,Burlington County (South & East)
+34,2101,Camden County (North)--Camden & Gloucester Cities
+34,2102,Camden County (Central)--Lindenwold & Collingswood Boroughs
+34,2103,Camden County (South & West)--Bellmawr & Pine Hill Boroughs
+34,2104,Camden County (East Central)--Haddonfield Borough
+34,2201,Gloucester County (Northeast)--Woodbury City
+34,2202,Gloucester County (South & West)--Glassboro Borough
+34,2301,Mercer County (West Central)--Trenton City
+34,2302,Mercer County (North)--Princeton Borough
+34,2303,Mercer County (South)
+34,2400,Cumberland County (South)--Vineland & Millville Cities
+34,2500,Salem & Cumberland (North) Counties--Bridgeton City
+34,2600,Cape May & Atlantic (South Central) Counties--Ocean City & Somers Point City
+35,100,Northwest New Mexico--Navajo Nation
+35,200,"San Juan County (Northeast)--Farmington, Bloomfield & Aztec Cities"
+35,300,North Central New Mexico
+35,400,Eastern Plains New Mexico
+35,500,Santa Fe County
+35,600,Sandoval County
+35,700,"Valencia, Bernalillo (East Mountains) Counties & Isleta Pueblo"
+35,801,Albuquerque City (Far Northeast Heights)
+35,802,Albuquerque City (Near Northeast Heights)
+35,803,Albuquerque City (Southeast Heights)
+35,804,Albuquerque City (Central) & Bernalillo County (North Valley)
+35,805,"Albuquerque City (Northwest Mesa), Paradise Hills & Navajo Nation-Tohajiilee Chapter"
+35,806,Albuquerque City (Southwest Mesa) & Bernalillo County (Southwest Mesa & South Valley)
+35,900,Southwest New Mexico
+35,1001,Do�a Ana County (Outer)
+35,1002,"Do�a Ana County (Central)--Las Cruces, Mesilla Cities & University Park"
+35,1100,Central Southeast New Mexico
+35,1200,Far Southeast New Mexico
+36,100,St. Lawrence County
+36,200,"Clinton, Franklin, Essex & Hamilton Counties"
+36,300,Warren & Washington Counties
+36,401,Herkimer (North & Central) & Oneida (Outer) Counties
+36,402,Oneida County (Central)--Greater Utica & Rome Cities
+36,403,"Otsego, Schoharie, Oneida (South) & Herkimer (South) Counties"
+36,500,Jefferson & Lewis Counties
+36,600,Oswego County
+36,701,Onondaga County (Central)--Syracuse City
+36,702,Onondaga County (North)
+36,703,Onondaga County (Central)--Syracuse City (Outer)
+36,704,Cayuga & Onondaga (South) Counties
+36,800,Wayne & Seneca Counties
+36,901,Monroe County (East)
+36,902,Monroe County (Central)--Rochester City (East)
+36,903,Monroe County (Central)--Rochester City (West)
+36,904,Monroe County (Central)--Greece & Gates Towns
+36,905,Monroe County (North & West)
+36,906,Monroe County (South)
+36,1000,Genesee & Orleans Counties
+36,1101,Niagara County (Southwest)--Greater Niagara Falls & North Tonawanda Area
+36,1102,Niagara County (North & East)
+36,1201,Erie County (Northwest)
+36,1202,Erie County (North Central)
+36,1203,Erie County (Northeast)
+36,1204,Erie County (Central)
+36,1205,Erie County (West Central)--Buffalo City (East)
+36,1206,Erie County (West Central)--Buffalo City (West)
+36,1207,Erie County (South)
+36,1300,Livingston & Wyoming Counties
+36,1400,Ontario & Yates Counties
+36,1500,Madison & Cortland Counties
+36,1600,Fulton & Montgomery Counties
+36,1700,Schenectady County--Schenectady City
+36,1801,Saratoga County (South & Central)
+36,1802,Saratoga County (Outer)
+36,1900,Rensselaer County--Troy City
+36,2001,Albany County (East Central)--Albany City
+36,2002,Albany County (Outside Albany City)
+36,2100,Columbia & Greene Counties
+36,2201,Broome County (West Central)--Greater Binghamton City & Greater Johnson City Village
+36,2202,Broome (Outer West) & Tioga Counties
+36,2203,"Chenango, Delaware & Broome (East) Counties"
+36,2300,Tompkins County
+36,2401,Chemung (South) & Steuben (East) Counties--Greater Elmira & Greater Corning Cities
+36,2402,"Steuben (North & West), Schuyler & Chemung (North) Counties"
+36,2500,Cattaraugus & Allegany Counties
+36,2600,Chautauqua County
+36,2701,Sullivan & Ulster (West) Counties
+36,2702,Ulster County (East)
+36,2801,Dutchess County (North & East)
+36,2802,Dutchess County (Southwest)
+36,2901,Orange County (Northeast)--Greater Newburgh City
+36,2902,Orange County (Northwest)
+36,2903,Orange County (Southeast)
+36,3001,Rockland County (North)--New City & Congers
+36,3002,"Rockland County (South)--Orangetown, Clarkstown (South) & Ramapo (Southeast) Towns"
+36,3003,"Rockland County (West)--Spring Valley, Suffern Villages & Monsey"
+36,3101,Putnam County
+36,3102,Westchester County (Northwest)
+36,3103,Westchester County (Northeast)
+36,3104,Westchester County (Southeast)
+36,3105,Westchester County (Central)--White Plains City
+36,3106,Westchester County (Southwest)--Yonkers City
+36,3107,Westchester County (South Central)--New Rochelle & Mount Vernon Cities
+36,3201,Nassau County (Northwest)--North Hempstead Town (North)
+36,3202,Nassau County (Northeast)--Oyster Bay Town (North) & Glen Cove City
+36,3203,Nassau County (East Central)--Oyster Bay Town (Central)
+36,3204,Nassau County (West Central)--North Hempstead Town (South)
+36,3205,Nassau County (West Central)--Hempstead Town (Northwest)
+36,3206,Nassau County (Central)--Hempstead Town (North Central)--Meadowbrook Corridor
+36,3207,Nassau County (Central)--Hempstead Town (Northeast)
+36,3208,Nassau County (Southeast)--Oyster Bay Town (South)
+36,3209,Nassau County (Central)--Hempstead Town (East Central)
+36,3210,Nassau County (South Central)--Hempstead Town (Southeast)
+36,3211,Nassau County (West Central)--Hempstead Town (West Central)
+36,3212,Nassau County (Southwest)--Hempstead Town (Southwest) & Long Beach City
+36,3301,Suffolk County (Northwest)--Huntington Town (North)
+36,3302,Suffolk County (Northwest)--Huntington Town (South)
+36,3303,Suffolk County (Northwest)--Smithtown Town
+36,3304,Suffolk County (North Central)--Brookhaven Town (North)
+36,3305,Suffolk County (East)
+36,3306,Suffolk County (South Central)--Brookhaven Town (South)
+36,3307,Suffolk County (Central)--Brookhaven Town (Central)
+36,3308,Suffolk County (Central)--Brookhaven Town (West Central)
+36,3309,Suffolk County (Central)--Islip Town (East)
+36,3310,Suffolk County (Central)--Islip Town (Northwest)
+36,3311,Suffolk County (Southwest)--Islip Town (South)
+36,3312,Suffolk County (Southwest)--Babylon Town (Southeast)
+36,3313,Suffolk County (West Central)--Babylon Town (Northwest)
+36,3701,"NYC-Bronx Community District 8--Riverdale, Fieldston & Kingsbridge"
+36,3702,"NYC-Bronx Community District 12--Wakefield, Williamsbridge & Woodlawn"
+36,3703,"NYC-Bronx Community District 10--Co-op City, Pelham Bay & Schuylerville"
+36,3704,"NYC-Bronx Community District 11--Pelham Parkway, Morris Park & Laconia"
+36,3705,"NYC-Bronx Community District 3 & 6--Belmont, Crotona Park East & East Tremont"
+36,3706,"NYC-Bronx Community District 7--Bedford Park, Fordham North & Norwood"
+36,3707,"NYC-Bronx Community District 5--Morris Heights, Fordham South & Mount Hope"
+36,3708,"NYC-Bronx Community District 4--Concourse, Highbridge & Mount Eden"
+36,3709,"NYC-Bronx Community District 9--Castle Hill, Clason Point & Parkchester"
+36,3710,"NYC-Bronx Community District 1 & 2--Hunts Point, Longwood & Melrose"
+36,3801,"NYC-Manhattan Community District 12--Washington Heights, Inwood & Marble Hill"
+36,3802,"NYC-Manhattan Community District 9--Hamilton Heights, Manhattanville & West Harlem"
+36,3803,NYC-Manhattan Community District 10--Central Harlem
+36,3804,NYC-Manhattan Community District 11--East Harlem
+36,3805,NYC-Manhattan Community District 8--Upper East Side
+36,3806,NYC-Manhattan Community District 7--Upper West Side & West Side
+36,3807,"NYC-Manhattan Community District 4 & 5--Chelsea, Clinton & Midtown Business District"
+36,3808,"NYC-Manhattan Community District 6--Murray Hill, Gramercy & Stuyvesant Town"
+36,3809,NYC-Manhattan Community District 3--Chinatown & Lower East Side
+36,3810,"NYC-Manhattan Community District 1 & 2--Battery Park City, Greenwich Village & Soho"
+36,3901,"NYC-Staten Island Community District 3--Tottenville, Great Kills & Annadale"
+36,3902,NYC-Staten Island Community District 2--New Springville & South Beach
+36,3903,"NYC-Staten Island Community District 1--Port Richmond, Stapleton & Mariner's Harbor"
+36,4001,NYC-Brooklyn Community District 1--Greenpoint & Williamsburg
+36,4002,NYC-Brooklyn Community District 4--Bushwick
+36,4003,NYC-Brooklyn Community District 3--Bedford-Stuyvesant
+36,4004,NYC-Brooklyn Community District 2--Brooklyn Heights & Fort Greene
+36,4005,"NYC-Brooklyn Community District 6--Park Slope, Carroll Gardens & Red Hook"
+36,4006,NYC-Brooklyn Community District 8--Crown Heights North & Prospect Heights
+36,4007,NYC-Brooklyn Community District 16--Brownsville & Ocean Hill
+36,4008,NYC-Brooklyn Community District 5--East New York & Starrett City
+36,4009,NYC-Brooklyn Community District 18--Canarsie & Flatlands
+36,4010,"NYC-Brooklyn Community District 17--East Flatbush, Farragut & Rugby"
+36,4011,"NYC-Brooklyn Community District 9--Crown Heights South, Prospect Lefferts & Wingate"
+36,4012,NYC-Brooklyn Community District 7--Sunset Park & Windsor Terrace
+36,4013,NYC-Brooklyn Community District 10--Bay Ridge & Dyker Heights
+36,4014,"NYC-Brooklyn Community District 12--Borough Park, Kensington & Ocean Parkway"
+36,4015,NYC-Brooklyn Community District 14--Flatbush & Midwood
+36,4016,"NYC-Brooklyn Community District 15--Sheepshead Bay, Gerritsen Beach & Homecrest"
+36,4017,NYC-Brooklyn Community District 11--Bensonhurst & Bath Beach
+36,4018,NYC-Brooklyn Community District 13--Brighton Beach & Coney Island
+36,4101,NYC-Queens Community District 1--Astoria & Long Island City
+36,4102,NYC-Queens Community District 3--Jackson Heights & North Corona
+36,4103,"NYC-Queens Community District 7--Flushing, Murray Hill & Whitestone"
+36,4104,"NYC-Queens Community District 11--Bayside, Douglaston & Little Neck"
+36,4105,"NYC-Queens Community District 13--Queens Village, Cambria Heights & Rosedale"
+36,4106,"NYC-Queens Community District 8--Briarwood, Fresh Meadows & Hillcrest"
+36,4107,NYC-Queens Community District 4--Elmhurst & South Corona
+36,4108,NYC-Queens Community District 6--Forest Hills & Rego Park
+36,4109,NYC-Queens Community District 2--Sunnyside & Woodside
+36,4110,"NYC-Queens Community District 5--Ridgewood, Glendale & Middle Village"
+36,4111,NYC-Queens Community District 9--Richmond Hill & Woodhaven
+36,4112,"NYC-Queens Community District 12--Jamaica, Hollis & St. Albans"
+36,4113,NYC-Queens Community District 10--Howard Beach & Ozone Park
+36,4114,"NYC-Queens Community District 14--Far Rockaway, Breezy Point & Broad Channel"
+37,100,"Boone High Country--Watauga, Ashe, Yancey, Avery & Mitchell Counties"
+37,200,"Wilkesboro High Country--Surry, Wilkes & Alleghany Counties"
+37,300,Rockingham & Stokes Counties
+37,400,"Granville, Person & Caswell Counties"
+37,500,"Franklin, Vance & Warren (West) Counties"
+37,600,"Halifax, Hertford, Northampton & Warren (East) Counties"
+37,700,Northeast Albemarle Sound Region
+37,800,South & West Albemarle Sound & Northern Outer Banks Regions
+37,900,Nash & Edgecombe Counties--Rocky Mount City
+37,1000,Wilson & Greene Counties--Wilson City
+37,1100,Johnston County
+37,1201,Raleigh City (South & Central)
+37,1202,Raleigh City (North)
+37,1203,"Wake County (Northeast)--Raleigh City (Northeast), Wake Forest & Rolesville Towns"
+37,1204,"Wake County (East)--Raleigh City (East), Knightdale & Garner (North) Towns"
+37,1205,Wake County (Southeast)--Garner (South) & Fuquay-Varina Towns
+37,1206,Wake County (Northwest)--Raleigh City (Northwest) & Morrisville Town
+37,1207,Wake County (West Central)--Cary Town
+37,1208,Wake County (Southwest)--Apex & Holly Springs Towns
+37,1301,Durham County (South)--Durham City (South)
+37,1302,Durham County (North)--Durham City (North)
+37,1400,Orange County--Chapel Hill Town
+37,1500,Chatham & Lee Counties
+37,1600,Alamance County--Burlington City
+37,1701,Greensboro City (North)
+37,1702,Greensboro City (South)
+37,1703,Guilford County (North)--Summerfield Town
+37,1704,Guilford County (South)--High Point City
+37,1801,Winston-Salem City (North)
+37,1802,Winston-Salem City (South)
+37,1803,Forsyth County (Outside Winston-Salem City)--Kernersville Town & Clemmons Village
+37,1900,"Davie, Yadkin & Iredell (North) Counties"
+37,2000,Caldwell & Alexander Counties
+37,2100,Burke & McDowell Counties
+37,2201,Buncombe County (Southeast)--Asheville City
+37,2202,Buncombe County (Northwest)
+37,2300,"Haywood, Madison, Swain, Graham & Jackson (North) Counties"
+37,2400,"Jackson (South), Macon, Cherokee & Clay Counties"
+37,2500,Henderson & Transylvania Counties
+37,2600,"Rutherford, Cleveland (West) & Polk Counties--Shelby City"
+37,2700,Lincoln & Cleveland (East) Counties
+37,2800,Catawba County--Hickory City
+37,2900,Iredell (South)--Mooresville Town & Statesville City
+37,3001,Gaston County (Northwest)--Mount Holly City
+37,3002,Gaston County (Southeast)--Gastonia & Belmont Cities
+37,3101,Charlotte City (Central)
+37,3102,Charlotte City (Northwest)
+37,3103,Charlotte City (Northeast)
+37,3104,Charlotte City (South)
+37,3105,Charlotte City (Southwest)
+37,3106,"Mecklenburg County (North)--Huntersville, Cornelius & Davidson Towns"
+37,3107,Mecklenburg County (East)--Mint Hill & Matthews (North) Towns
+37,3108,Mecklenburg County (South)--Matthews Town (South)
+37,3200,"Cabarrus County (West)--Concord, Kannapolis Cities & Harrisburg Town"
+37,3300,Stanley & Cabarrus (East) Counties
+37,3400,Rowan County
+37,3500,Davidson County
+37,3600,Randolph County
+37,3700,Moore & Montgomery Counties
+37,3800,Harnett County
+37,3900,Sampson & Duplin Counties
+37,4000,Wayne County
+37,4100,"Lenoir, Onslow (North) & Jones Counties"
+37,4200,Pitt County--Greenville City
+37,4300,Craven County
+37,4400,"Carteret, Beaufort & Pamlico Counties"
+37,4500,Onslow County (South)--Jacksonville City
+37,4600,Pender & New Hanover (North) Counties
+37,4700,New Hanover County (South)--Wilmington City
+37,4800,Brunswick County
+37,4900,"Columbus, Bladen & Robeson (East) Counties"
+37,5001,Cumberland County (Central)--Fayetteville City (Central & East)
+37,5002,Cumberland County (East)--Hope Mills & Spring Lake Towns
+37,5003,Cumberland County (West)--Fayetteville City (West)
+37,5100,Robeson County (West)--Lumberton City
+37,5200,"Hoke, Richmond & Scotland Counties"
+37,5300,Union (East) & Anson Counties--Monroe City
+37,5400,Union County (West)--Indian Trail & Stallings Towns
+38,100,West North Dakota--Minot City
+38,200,East Central North Dakota--Jamestown City
+38,300,South Central North Dakota--Bismarck City
+38,400,Northeast North Dakota--Grand Forks City
+38,500,Cass County--Fargo City
+39,100,"Defiance, Williams, Henry & Paulding Counties"
+39,200,"Wood (South), Fulton & Lucas (Southwest) Counties--Bowling Green City"
+39,300,"Lucas (West) & Wood (North Central) Counties--Perrysburg, Sylvania & Maumee Cities"
+39,400,Toledo City (West)
+39,500,Toledo City (East)
+39,600,"Ottawa, Wood (Northeast) & Lucas (East) Counties--Oregon City"
+39,700,Erie & Sandusky Counties
+39,801,Lorain County (North)--Elyria & Lorain Cities
+39,802,"Lorain County (South)--Avon, Avon Lake & North Ridgeville Cities"
+39,901,"Cuyahoga County--Olmsted Township, Bay Village, North Olmsted & Westlake Cities"
+39,902,"Cuyahoga County (West)--Berea, Brook Park, Lakewood & Rocky River Cities"
+39,903,"Cuyahoga County (South)--Broadview Heights, North Royalton & Strongsville Cities"
+39,904,"Cuyahoga County (South Central)--Brooklyn, Parma, Parma Heights & Seven Hills Cities"
+39,905,Cleveland City (West)
+39,906,Cleveland City (Central)
+39,907,"Cuyahoga County (Southeast)--Bedford, Garfield Heights & Maple Heights Cities"
+39,908,Cleveland City (East) & Bratenahl Village
+39,909,"Cuyahoga County (Northeast)--Euclid, Cleveland Heights & South Euclid Cities"
+39,910,"Cuyahoga County (East)--Lyndhurst, Mayfield Heights, Shaker Heights & Solon Cities"
+39,1000,"Lake County (West)--Eastlake, Wickliffe, Willoughby & Willowick Cities"
+39,1100,"Lake County (East)--Mentor, Painesville Cities & Madison Village"
+39,1200,Geauga & Lake (South) Counties
+39,1300,Ashtabula County
+39,1400,Trumbull (Outside Warren City) & Mahoning (Outside Youngstown City) Counties
+39,1500,"Mahoning County (Northeast)--Youngstown City, Boardman & Austintown"
+39,1600,Trumbull County (South Central)--Warren & Niles Cities
+39,1700,Portage County
+39,1801,"Summit County (North & Northwest)--Hudson, Twinsburg & Macedonia Cities"
+39,1802,"Summit County (East Central)--Cuyahoga Falls (Southeast), Stow & Tallmadge Cities"
+39,1803,Summit County (Central)--Akron City (East)
+39,1804,Summit County (Central)--Akron (West) & Cuyahoga Falls (West) Cities
+39,1805,"Summit County (South)--Barberton, Green & New Franklin Cities"
+39,1900,Medina County
+39,2000,Wayne County
+39,2100,Huron & Ashland Counties
+39,2200,Richland County
+39,2300,"Seneca, Crawford & Wyandot Counties"
+39,2400,Hancock & Putnam Counties
+39,2500,Allen County
+39,2600,"Auglaize, Mercer & Van Wert Counties"
+39,2700,"Logan, Champaign & Hardin Counties"
+39,2800,"Marion, Knox & Morrow Counties"
+39,2900,"Holmes, Guernsey & Coshocton Counties"
+39,3000,Tuscarawas & Harrison Counties
+39,3100,Stark County (West)--Massillon City
+39,3200,Stark County (Central)--Canton & North Canton Cities
+39,3300,Stark County (East) & Carroll County--Alliance City
+39,3400,Columbiana County
+39,3500,Belmont & Jefferson Counties
+39,3600,"Washington, Morgan, Noble & Monroe Counties"
+39,3700,Muskingum & Perry Counties
+39,3800,Licking County
+39,3900,Fairfield County
+39,4000,Delaware County
+39,4101,"Columbus (Far Northeast), Gahanna & New Albany Cities"
+39,4102,"Columbus (North), Westerville & Worthington Cities"
+39,4103,"Columbus (Far Northwest), Dublin & Hilliard (North) Cities"
+39,4104,"Columbus (Northwest), Upper Arlington & Grandview Heights Cities"
+39,4105,Columbus City (Central)
+39,4106,Columbus City (Northeast)
+39,4107,"Columbus (East), Whitehall & Bexley Cities"
+39,4108,Columbus (Southeast) & Reynoldsburg Cities
+39,4109,"Franklin County (South)--Columbus (South), Grove Cities & Groveport Village"
+39,4110,Columbus City (West)
+39,4111,Columbus (Far West) & Hilliard (South) Cities
+39,4200,"Pickaway, Union & Madison Counties"
+39,4300,Clark County
+39,4400,Miami County
+39,4500,"Darke, Shelby & Preble Counties"
+39,4601,Montgomery County (West)--Miamisburg & West Carrollton Cities
+39,4602,"Montgomery County (Northeast)--Huber Heights, Trotwood, Vandalia & Englewood Cities"
+39,4603,Montgomery County (East Central)--Dayton & Riverside Cities
+39,4604,Montgomery County (Southeast)--Kettering & Centerville Cities
+39,4700,Greene County
+39,4800,Ross & Fayette Counties
+39,4900,"Jackson, Hocking, Pike & Vinton Counties"
+39,5000,"Athens, Gallia & Meigs Counties"
+39,5100,Scioto & Lawrence Counties
+39,5200,"Highland, Clinton & Adams Counties"
+39,5301,Warren County (East)--Lebanon & Springboro (East) Cities
+39,5302,"Warren County (West)--Mason, Franklin & Springboro (West) Cities"
+39,5401,Butler County (Southeast)--Monroe City & Beckett Ridge
+39,5402,Butler County (South Central)--Hamilton & Fairfield Cities
+39,5403,"Butler County (North & West)--Middletown, Oxford & Trenton Cities"
+39,5501,Hamilton County (West)--Mack & Dent
+39,5502,"Hamilton County (Central)--Forest Park City, White Oak, Bridgetown & Finneytown"
+39,5503,Cincinnati City (West)
+39,5504,Cincinnati City (Central)
+39,5505,Cincinnati (East) & Norwood Cities
+39,5506,"Hamilton County (North Central)--Sharonville, Blue Ash, Springdale & Reading Cities"
+39,5507,"Hamilton County (East)--Loveland, Montgomery Cities & Forestville"
+39,5600,Clermont County (West)
+39,5700,Clermont (East) & Brown Counties
+40,100,Northeast Oklahoma
+40,200,"Cherokee, Sequoyah & Adair Counties"
+40,300,Southeast Oklahoma
+40,400,Southwest Oklahoma
+40,500,Panhandle & Northwest Oklahoma
+40,601,Comanche County (Central)--Lawton City
+40,602,"Stephens, Caddo, Comanche (North), Tillman, Jefferson & Cotton Counties"
+40,701,"Carter, Garvin, Murray, Love & Pontotoc (West) Counties"
+40,702,"Bryan, Pontotoc (East), Marshall, Atoka, Johnston & Coal Counties--Ada City"
+40,800,Canadian County--Oklahoma City (West)
+40,900,"Cleveland County--Norman, Oklahoma City (South) & Moore Cities"
+40,1001,Oklahoma County (Southwest)--Oklahoma City (West Central)
+40,1002,Oklahoma County (Northwest)--Oklahoma City (Northwest Central) & Bethany Cities
+40,1003,Oklahoma County (Northeast)--Edmond & Oklahoma City (North Central) Cities
+40,1004,"Oklahoma County (East)--Midwest, Del & Oklahoma City (Northeast) Cities"
+40,1005,Oklahoma County (Southeast)--Oklahoma City (East Central)
+40,1006,Oklahoma County (Central)--Oklahoma City (Central)
+40,1101,"Grady, McClain & Pottawatomie (South) Counties"
+40,1102,"Pottawatomie (North), Logan & Lincoln Counties--Shawnee City"
+40,1201,Tulsa County (Central)--Tulsa City (Central)
+40,1202,Tulsa County (Southeast)--Tulsa (Southeast) & Broken Arrow (West) Cities
+40,1203,Tulsa County (North)--Tulsa (North) & Owasso Cities
+40,1204,"Tulsa (West), Creek (Northeast) & Osage (Southeast) Counties--Tulsa City (West)"
+40,1301,Rogers (Central) & Wagoner (West) Counties--Claremore City
+40,1302,"Muskogee, Okmulgee, Wagoner (East) & McIntosh Counties"
+40,1400,"Garfield, Kay & Noble Counties--Enid City"
+40,1501,"Payne, Seminole, Creek (Southwest), Hughes & Okfuskee Counties--Stillwater City"
+40,1601,"Washington, Osage (North & West), Pawnee & Creek (Northwest) Counties"
+41,100,"Umatilla, Union, Baker & Wallowa Counties"
+41,200,North Central Oregon--The Dalles City
+41,300,"Klamath, Malheur, Lake & Harney Counties"
+41,400,Deschutes County
+41,500,"Columbia, Lincoln, Clatsop & Tillamook Counties"
+41,600,Linn & Benton Counties
+41,703,Lane County (West Central)--Eugene City (West & South)
+41,704,Lane County (East Central)--Eugene (Northeast) & Springfield Cities
+41,705,Lane County (Outside Eugene & Springfield Cities)
+41,800,"Josephine, Coos & Curry Counties"
+41,901,Jackson County (Central)--Medford & Central Point Cities
+41,902,Jackson County (Outside Medford & Central Point Cities)--Ashland City
+41,1000,Douglas County
+41,1103,"Marion County (West Central)--Salem (North), Keizer Cities & Hayesville"
+41,1104,Marion County (West Central)--Salem City (South) & Four Corners
+41,1105,Marion County (Outside Salem & Keizer Cities)--Woodburn & Silverton Cities
+41,1200,Yamhill & Polk Counties
+41,1301,Portland City (North & Northeast)
+41,1302,Portland City (East)
+41,1303,Portland City (Southeast)
+41,1305,Portland City (Central East)
+41,1314,Portland City (Northwest & Southwest)
+41,1316,Multnomah County (East)--Gresham & Troutdale Cities
+41,1317,Clackamas County (South & East)--Damascus City
+41,1318,"Clackamas County (Northwest)--Oregon City, Milwaukie & Happy Valley Cities"
+41,1319,"Clackamas County (Northwest)--Lake Oswego, West Linn, Wilsonville & Canby Cities"
+41,1320,"Washington County (Southeast)--Tigard, Tualatin & Sherwood Cities"
+41,1321,"Washington County (West)--Forest Grove, Cornelius Cities, Bethany & Oak Hills"
+41,1322,Washington County (Central)--Hillsboro City
+41,1323,Washington County (Central)--Beaverton City (West) & Aloha
+41,1324,Washington County (Northeast)--Beaverton City (East & Central) & Cedar Mill
+42,101,"Erie City, Lawrence Park Township & Wesleyville Borough"
+42,102,Erie County (Outer)
+42,200,Crawford & Warren Counties
+42,300,"Clearfield, McKean, Elk, Potter & Cameron Counties"
+42,400,"Bradford, Tioga & Sullivan Counties"
+42,500,"Pike, Wayne & Susquehanna Counties"
+42,600,Monroe County
+42,701,"Lackawanna County--Scranton City, Dunmore, Old Forge, Taylor & Moosic Boroughs"
+42,702,Lackawanna (Outside Greater Scranton City) & Wyoming Counties
+42,801,Luzerne County (East)--Kingston Borough
+42,802,Luzerne County (South Central)--Wilkes-Barre & Hazleton Cities
+42,803,Columbia & Luzerne (West) Counties--Bloomsburg Town & Berwick Borough
+42,900,Lycoming & Clinton Counties
+42,1000,Northumberland & Montour Counties
+42,1100,"Mifflin, Union, Snyder & Juniata Counties"
+42,1200,Centre County
+42,1300,"Venango, Jefferson, Clarion & Forest Counties"
+42,1400,Mercer County
+42,1501,Lawrence & Beaver (North) Counties--New Castle City
+42,1502,Beaver County (South)
+42,1600,Butler County
+42,1701,Pittsburgh City (North)
+42,1702,Pittsburgh City (South)
+42,1801,Allegheny County (West)
+42,1802,Allegheny County (North)--Franklin Park Borough & Allison Park
+42,1803,Allegheny County (North Central)
+42,1804,"Allegheny County (East)--Monroeville Municipality, Plum & Wilkinsburg Boroughs"
+42,1805,"Allegheny County (Southeast)--West Mifflin Borough, McKeesport City & Munhall Borough"
+42,1806,Allegheny County (South Central)--Baldwin & Whitehall Boroughs
+42,1807,Allegheny County (South)--Bethel Park Municipality & Jefferson Hills Borough
+42,1900,Indiana & Armstrong Counties
+42,2001,Westmoreland County (Northwest)--Murrysville Municipality & New Kensington City
+42,2002,Westmoreland County (Southwest)--Greensburg City
+42,2003,Westmoreland County (East)
+42,2100,Cambria County
+42,2200,Blair & Huntingdon Counties--Altoona City
+42,2301,Cumberland (West) & Perry Counties--Carlisle Borough
+42,2302,Cumberland County (East)
+42,2401,Dauphin County (Central)--Harrisburg City & Colonial Park
+42,2402,Dauphin County (Outer)--Hershey
+42,2500,Lebanon County
+42,2600,Schuylkill County
+42,2701,Berks County (Northwest)--Wyomissing Borough
+42,2702,Berks County (Southwest)--Reading City
+42,2703,Berks County (East)
+42,2801,Carbon & Lehigh (North) Counties
+42,2802,Lehigh County (South--Outside Allentown & Bethlehem Cities)--Emmaus Borough
+42,2803,Allentown City
+42,2901,Northampton (South) & Lehigh (East) Counties--Bethlehem (East) & Easton Cities
+42,2902,Northampton County (North)
+42,3001,Bucks County (North)
+42,3002,Bucks County (Central)
+42,3003,Bucks County (Southeast)--Levittown
+42,3004,Bucks County (Southwest)
+42,3101,Montgomery County (Northwest)--Pottstown Borough
+42,3102,Montgomery County (Northeast)--Lansdale Borough
+42,3103,Montgomery County (Southwest)--King of Prussia & Ardmore (East)
+42,3104,Montgomery County (Central)--Norristown Borough
+42,3105,"Montgomery County (Southeast)--Willow Grove, Horsham & Montgomeryville"
+42,3106,Montgomery County (South Central)
+42,3201,Philadelphia City (Far Northeast)
+42,3202,Philadelphia City (Near Northeast-West)
+42,3203,Philadelphia City (Near Northeast-East)
+42,3204,Philadelphia City (North)
+42,3205,Philadelphia City (East)
+42,3206,Philadelphia City (Northwest)
+42,3207,Philadelphia City (Central)
+42,3208,Philadelphia City (West)
+42,3209,Philadelphia City (Center City)
+42,3210,Philadelphia City (Southwest)
+42,3211,Philadelphia City (Southeast)
+42,3301,Delaware County (North)--Broomall & Ardmore (West)
+42,3302,"Delaware County (East)--Yeadon, Darby, Lansdowne Boroughs & Drexel Hill"
+42,3303,Delaware County (Southeast)--Chester City
+42,3304,Delaware County (West)
+42,3401,Chester County (North)--Phoenixville Borough
+42,3402,Chester County (East Central)--West Chester Borough
+42,3403,Chester County (West Central)--Coatesville City
+42,3404,Chester County (South)
+42,3501,"Lancaster County--Lancaster City, East Lampeter, Lancaster & West Lampeter Townships"
+42,3502,Lancaster County (Northwest)--Elizabethtown Borough
+42,3503,Lancaster County (East)--Ephrata Borough
+42,3504,Lancaster County (Southwest)--Columbia Borough
+42,3601,York County (Central)--York City & Shiloh
+42,3602,York County (North)--Weigelstown
+42,3603,York County (South)
+42,3701,Adams & Franklin (Southeast) Counties
+42,3702,Franklin County (Outside Washington Township & Waynesboro Borough)
+42,3800,"Somerset, Bedford & Fulton Counties"
+42,3900,Fayette County
+42,4001,Washington County (North)--Washington City
+42,4002,Washington (South) & Greene Counties
+44,101,Northwest Rhode Island--Providence County (West & Central)--Woonsocket City
+44,102,Northeast Rhode Island--Providence County--Pawtucket & Central Falls Cities
+44,103,Providence City
+44,104,Providence County (Southeast)--Cranston & East Providence Cities
+44,201,Central Rhode Island--Kent County--Warwick City
+44,300,Southeast Rhode Island--Newport & Bristol Counties--Newport City
+44,400,South Rhode Island--Washington County
+45,101,Pickens & Oconee Counties--Easley & Clemson Cities
+45,102,Greenville County (North)--Greer City (North & West) & Taylors (Central & East)
+45,103,Greenville County (North Central & Outside Greenville City)--Wade Hampton & Berea
+45,104,Greenville County (Central)--Greenville & Mauldin Cities
+45,105,"Greenville (South) & Laurens Counties--Simpsonville, Laurens & Clinton Cities"
+45,200,Anderson County--Anderson City
+45,301,Spartanburg County (Central)--Spartanburg City
+45,302,Spartanburg County (Outside Spartanburg City)--Greer City (East)
+45,400,"Cherokee, Newberry, Chester & Union Counties"
+45,501,York County (West & Outside Rock Hill City)
+45,502,York County (East)--Rock Hill City & Fort Mill Town
+45,601,Lexington (South & West) & Saluda Counties--Lexington Town & Red Bank
+45,602,"Lexington County (North & East)--West Columbia, Cayce Cities, Irmo Town & Seven Oaks"
+45,603,Richland (North) & Fairfield Counties--Forest Acres City & Dentsville
+45,604,Richland County (Central)--Columbia City
+45,605,"Kershaw, Richland (South) & Calhoun Counties"
+45,700,"Lancaster, Chesterfield & Marlboro Counties"
+45,800,"Sumter, Clarendon, Williamsburg & Lee Counties--Sumter City"
+45,900,Florence & Darlington Counties--Florence City
+45,1000,"Georgetown, Marion & Dillon Counties"
+45,1101,Horry County (West & North)--Conway City & Red Hill
+45,1102,"Horry County (Southeast)--Myrtle Beach, North Myrtle Beach Cities & Socastee (East)"
+45,1201,Dorchester (North & West) & Berkeley (Southwest) Counties--Summerville Town & Ladson
+45,1202,Charleston (South & West) & Berkeley (South) Counties--Charleston City
+45,1203,Charleston (Northeast) & Berkeley (North & East) Counties--Mount Pleasant Town
+45,1204,"Charleston, Berkeley & Dorchester Counties--North Charleston City"
+45,1300,"Orangeburg, Colleton, Barnwell, Hampton, Bamberg & Allendale Counties"
+45,1400,"Beaufort & Jasper Counties--Hilton Head Island, Bluffton Towns & Beaufort City"
+45,1500,Aiken & Edgefield Counties--Aiken & North Augusta Cities
+45,1600,"Greenwood, Abbeville & McCormick Counties"
+46,100,West South Dakota--Rapid City
+46,200,Lakota Region
+46,300,Northeast South Dakota
+46,400,Jackrabbit Region
+46,500,Southeast South Dakota (Outside Sioux Falls City)
+46,600,Sioux Falls City
+47,100,"Northwest Tennessee--Gibson, Dyer, Obion, Crockett & Lake Counties"
+47,200,"Land Between the Lakes--Weakley, Henry, Carroll, Humphreys, Benton & Houston Counties"
+47,300,Montgomery & Stewart Counties--Clarksville City
+47,400,"Robertson, Dickson, Cheatham & Hickman Counties"
+47,500,Sumner County--Hendersonville City
+47,600,"Warren, Macon, Smith, DeKalb, Cannon & Trousdale Counties"
+47,700,"Putnam, Overton, Jackson, Clay & Pickett Counties"
+47,800,"Cumberland, White, Fentress & Van Buren Counties"
+47,900,"Campbell, Claiborne, Scott, Morgan & Hancock Counties"
+47,1000,Hawkins & Sullivan (Northwest) Counties--Kingsport City
+47,1100,Sullivan County (Southeast)--Bristol City
+47,1200,"Greene, Carter, Unicoi & Johnson Counties"
+47,1300,Washington County--Johnson City
+47,1400,"Hamblen, Cocke & Grainger Counties"
+47,1500,Sevier & Jefferson Counties
+47,1601,"Anderson, Union & Knox (North) Counties--Oak Ridge (East) & Clinton Cities"
+47,1602,Knox County (East)
+47,1603,Knoxville City
+47,1604,Knox County (West)--Farragut Town
+47,1700,Blount County
+47,1800,"Roane, Loudon & Monroe Counties--Oak Ridge City (West)"
+47,1900,"Bradley, McMinn & Polk Counties--Cleveland City"
+47,2001,Chattanooga City (South & Central)
+47,2002,Hamilton County (South)--Chattanooga (North) & Red Bank Cities
+47,2003,Hamilton County (North)--Soddy-Daisy City
+47,2100,"Rhea, Marion, Sequatchie, Grundy, Bledsoe & Meigs Counties"
+47,2200,"Coffee, Franklin, Lincoln & Moore Counties"
+47,2300,Wilson County--Lebanon & Mount Juliet Cities
+47,2401,Rutherford County (North)--Smyrna Town & La Vergne City
+47,2402,Rutherford County (South)--Murfreesboro City
+47,2501,Nashville-Davidson (East)
+47,2502,Nashville-Davidson (North)
+47,2503,Nashville-Davidson (Central)
+47,2504,Nashville-Davidson (Southeast)
+47,2505,Nashville-Davidson (Southwest)
+47,2600,Williamson County--Franklin & Brentwood Cities
+47,2700,"Maury, Bedford & Marshall Counties"
+47,2800,"Lawrence, Giles, Wayne, Lewis & Perry Counties"
+47,2900,"Henderson, Hardeman, McNairy, Hardin, Haywood & Decatur Counties"
+47,3000,Madison & Chester Counties--Jackson City
+47,3100,"Tipton, Fayette & Lauderdale Counties"
+47,3201,Memphis City (Central Riverside)
+47,3202,Memphis City (Central Midtown)
+47,3203,Memphis (North) & Bartlett (Southwest) Cities
+47,3204,Shelby County (North)--Bartlett (North & East) & Millington Cities
+47,3205,"Memphis (East), Lakeland Cities & Arlington Town (South)"
+47,3206,Shelby County (Southeast)--Collierville Town & Germantown City
+47,3207,Memphis City (Southeast)
+47,3208,Memphis City (Southwest)
+48,100,Panhandle Regional Planning Commission (Outside Potter & Randall Counties)
+48,200,Panhandle Regional Planning Commission--Potter County--Amarillo City (North)
+48,300,Panhandle Regional Planning Commission--Randall County--Amarillo City (South)
+48,400,South Plains Association of Governments (Outside Lubbock County)
+48,501,South Plains Association of Governments--Lubbock County--Lubbock City (Central)
+48,502,South Plains Association of Governments--Lubbock County--Lubbock City (Outer)
+48,600,North Texas Regional Planning Commission (Outside Wichita County) & Wise County
+48,700,North Texas Regional Planning Commission--Wichita County--Wichita Falls City
+48,800,"Texoma COG--Grayson, Cooke & Fannin Counties"
+48,900,"Hunt & Rockwall Counties--Rockwall, Greenville & Dallas (Far Northeast) Cities"
+48,1000,Ark-Tex COG (West)
+48,1100,Ark-Tex COG (East)--Bowie & Cass Counties
+48,1200,"East Texas COG (Northeast)--Harrison, Upshur & Marion Counties"
+48,1300,"East Texas COG (Northwest)--Van Zandt, Wood, Camp & Rains Counties"
+48,1400,Kaufman County
+48,1501,East Texas COG (Central)--Smith County (Outside Tyler City)
+48,1502,East Texas COG (Central)--Smith County (West)--Tyler City
+48,1600,East Texas COG (Central)--Gregg County--Longview City
+48,1700,"East Texas COG (Southeast)--Rusk, Cherokee & Panola Counties"
+48,1800,East Texas COG (Southwest)--Henderson & Anderson Counties
+48,1901,"Collin County (Southwest)--Dallas (North), Plano (South) & Richardson (North) Cities"
+48,1902,Collin County (Southwest)--Plano City (West)
+48,1903,Collin County (Southwest)--Plano City (Central)
+48,1904,"Collin County (South Central)--Allen, Murphy, Plano (East) & Parker Cities"
+48,1905,Collin County (Central)--McKinney City
+48,1906,Collin County (Northwest)--Frisco City (East) & Prosper Town
+48,1907,Collin County (East)
+48,2001,Denton County (Far Southeast)--Carrollton (North) & Dallas (North) Cities
+48,2002,Denton County (Southeast)--Lewisville City
+48,2003,Denton County (South Central)--Flower Mound Town & Highland Village City
+48,2004,"Denton County (East Central)--Frisco (West), The Colony & Little Elm Cities"
+48,2005,Denton County (Central)--Denton (Central) & Corinth Cities
+48,2006,Denton County (North & West)--Denton City (Outer)
+48,2101,Ellis County
+48,2102,Johnson County
+48,2200,"North Central Texas COG (West)--Hood, Erath, Palo Pinto & Somervell Counties"
+48,2301,Dallas County (Northeast)--Rowlett & Garland (Northeast) Cities
+48,2302,Dallas County (Northeast)--Garland City (South)
+48,2303,Dallas County (East)--Mesquite City (Central & Southeast)
+48,2304,Dallas County (Southeast)--Dallas City (Southeast)
+48,2305,Dallas (East) & Mesquite (West) Cities--South of I-30 & West of I-635
+48,2306,Dallas (Northeast) & Mesquite (North) Cities--North of I-30 & West of I-635
+48,2307,Dallas City (Northeast)--East of US-75
+48,2308,Dallas County (Northeast)--Garland (Northwest) & Richardson (East) Cities
+48,2309,Dallas (Far North) & Richardson (Southwest) Cities
+48,2310,"Dallas (Far North), Carrollton (Southeast) Cities & Addison Town--North of I-635"
+48,2311,Dallas City (North)--South of I-635 & West of US-75
+48,2312,"Dallas (West Central), University Park Cities & Highland Park Town"
+48,2313,Dallas City (Downtown)--North of I-30
+48,2314,Dallas City (East Central)--South of I-30 & East of I-35E
+48,2315,Dallas City (West Central)--East of Loop TX-12 & West of I-35E
+48,2316,Dallas City (South Central)--North of I-20 & West of I-35E
+48,2317,Dallas County (South)--DeSoto & Lancaster Cities
+48,2318,Dallas County (Southwest)--Cedar Hill & Duncanville Cities
+48,2319,Dallas County (West)--Grand Prairie (Central) & Dallas (Southwest) Cities
+48,2320,Dallas County (West)--Irving (South) & Grand Prairie (North) Cities
+48,2321,Dallas County (Northwest)--Irving (Central) & Dallas (Northwest) Cities
+48,2322,"Dallas County (Northwest)--Irving (North), Coppell & Carrollton (Southwest) Cities"
+48,2400,Parker County
+48,2501,"Tarrant County (Northeast)--Grapevine, Southlake & Colleyville Cities"
+48,2502,Tarrant County (East)--Euless (South & West) & Arlington (North) Cities
+48,2503,Tarrant County (East)--Arlington (East) & Grand Prairie (West Central) Cities
+48,2504,Tarrant County (Southeast)--Arlington (Southeast) & Grand Prairie (Southwest) Cities
+48,2505,Tarrant County (Southeast)--Mansfield (North) & Arlington (Southwest) Cities
+48,2506,Tarrant County (South Central)--Fort Worth City (Southeast)--South of I-20
+48,2507,Tarrant County (East)--Arlington City (West)--South of I-30 & East of Loop I-820
+48,2508,"Fort Worth City (East Central)--South of I-30, East of I-35W & Inside Loop I-820"
+48,2509,Fort Worth (Northeast) & Hurst (South) Cities--North of I-30
+48,2510,Tarrant County (North)--North Richland Hills (North) & Keller Cities
+48,2511,Fort Worth City (North)--East of I-35W & West of US-377
+48,2512,Fort Worth City (North Central) & Haltom City (North)--Inside Loop I-820
+48,2513,Fort Worth City (South Central) & Edgecliff Village Town
+48,2514,Tarrant County (Southwest)--Fort Worth (Southwest) & Benbrook Cities
+48,2515,Tarrant County (West)--Fort Worth City (West)
+48,2516,Tarrant County (Northwest)--Fort Worth (Northwest) & Saginaw Cities
+48,2600,West Central Texas COG (Outside Taylor County)
+48,2700,West Central Texas COG--Taylor County--Abilene City
+48,2800,Concho Valley COG & Permian Basin Regional Planning Commission (East)
+48,2900,Concho Valley COG--Tom Green County--San Angelo City
+48,3000,Permian Basin Regional Planning Commission (Central)--Midland County--Midland City
+48,3100,Permian Basin Regional Planning Commission (Central)--Ector County--Odessa City
+48,3200,Rio Grande COG & Permian Basin Regional Planning Commission (West)
+48,3301,El Paso County (Outside El Paso City)--Socorro & Horizon Cities
+48,3302,El Paso City (East)
+48,3303,El Paso City (Southeast)
+48,3304,El Paso City (Central)
+48,3305,El Paso City (North)
+48,3306,El Paso City (Northwest)
+48,3400,"Central Texas COG (West), Burnet & Llano Counties"
+48,3501,Central Texas COG--Bell County (West)--Killeen & Harker Heights Cities
+48,3502,"Central Texas COG--Bell County (North, East & South)--Temple & Belton Cities"
+48,3601,Brazos Valley COG (Outside Brazos County) & Milam County
+48,3602,Brazos Valley COG--Brazos County--College Station & Bryan Cities
+48,3700,Heart of Texas COG (Outside McLennan County) & Navarro County
+48,3801,Heart of Texas COG--McLennan County--Waco City (Central)
+48,3802,"Heart of Texas COG--McLennan County--Waco (Outer), Hewitt & Robinson Cities"
+48,3900,Deep East Texas COG (West) & Walker County
+48,4000,Deep East Texas COG (Central)--Angelina & Nacogdoches Counties
+48,4100,Deep East Texas COG (East)
+48,4200,Orange & Hardin Counties
+48,4301,Jefferson County (North Central)--Beaumont City
+48,4302,Jefferson County (Outside Beaumont City)--Port Arthur City
+48,4400,Houston-Galveston Area Council--Liberty & Chambers Counties
+48,4501,Houston-Galveston Area Council--Montgomery County (Northeast)--Conroe City (East)
+48,4502,Houston-Galveston Area Council--Montgomery County (West)--Conroe City (West)
+48,4503,Houston-Galveston Area Council--Montgomery County (South)--The Woodlands (North)
+48,4504,Houston-Galveston Area Council--Montgomery County (Southeast)
+48,4601,Houston City (North Central)--North of I-10 & Inside Loop I-610
+48,4602,Houston City (East Central)--East of I-45 & Inside Loop I-610
+48,4603,"Houston City (South Central)--South of US-59, West of I-45 & Inside Loop I-610"
+48,4604,Houston City (West Central)--South of I-10 & Inside Loop I-610
+48,4605,Harris County (Southeast)--Pasadena City (North & Central)--Inside Beltway TX-8
+48,4606,"Houston (East), Galena Park, Jacinto Cities & Cloverleaf"
+48,4607,Houston City (Northeast)--Between Loop I-610 & Beltway TX-8
+48,4608,Houston City (North) & Aldine--Between Loop I-610 & Beltway TX-8
+48,4609,Houston City (North)--South of Aldine & Inside Beltway TX-8
+48,4610,Houston City (North)--West of Aldine & Inside Beltway TX-8
+48,4611,Houston City (Northwest)--Between Loop I-610 & Beltway TX-8
+48,4612,Houston (West) & Spring Valley Village Cities--Between Loop I-610 & Beltway TX-8
+48,4613,Houston (West) & Hunters Creek Village Cities--Between Loop I-610 & Beltway TX-8
+48,4614,"Houston City (West)--Westpark Tollway, Between Loop I-610 & Beltway TX-8"
+48,4615,Houston (Southwest) & Bellaire (Southeast) Cities--Between Loop I-610 & Beltway TX-8
+48,4616,Houston City (Southwest)--Between Loop I-610 & Beltway TX-8
+48,4617,Houston City (South)--Between Loop I-610 & Beltway TX-8
+48,4618,Houston City (Southeast)--West of Pasadena City & Outside Loop I-610
+48,4619,Houston (Southeast) & South Houston Cities--Inside Beltway TX-8
+48,4620,Houston (Southeast) & Webster Cities
+48,4621,"Houston (Southeast), Pasadena (Southeast), La Porte (South) & Seabrook (East) Cities"
+48,4622,"Harris County (East)--Deer Park, La Porte (North) Cities & Channelview"
+48,4623,Harris County (East)--Baytown City
+48,4624,Harris County (Northeast)--Houston City (Far Northeast)
+48,4625,"Harris County (North)--Houston (North), Humble Cities & Atascocita"
+48,4626,"Harris County (North)--Houston City (North)--I-45, Between Beltway TX-8 & FM-1960"
+48,4627,Harris County (Far North)--Spring
+48,4628,Harris County (Northwest)--Jersey Village City--Between Beltway TX-8 & FM-1960
+48,4629,"Harris County (North)--North of FM-1960, West of I-45 & East of TX-249"
+48,4630,Harris County (Far North)--Tomball City & The Woodlands (Southwest)
+48,4631,Harris County (Northwest)--North of US-290 & North of FM-1960
+48,4632,Harris County (Far Northwest)--Katy City (Northeast)
+48,4633,Harris County (Northwest)--South of US-290 & West of TX-6
+48,4634,Harris County (West)--Houston City (West)--North of US-90 & West of TX-6
+48,4635,Houston City (West)--South of I-10 & West of TX-6
+48,4636,Houston City (West)--East of TX-6 & West of Beltway TX-8
+48,4637,"Houston City (West)--Westpark Tollway, West of Beltway TX-8"
+48,4638,Houston City (Southwest)--East of TX-6 & West of Beltway TX-8
+48,4701,"Galveston County (Central, South & East)--Galveston, Texas City & La Marque Cities"
+48,4702,Galveston County (Northwest)--League City & Friendswood City
+48,4801,Houston-Galveston Area Council--Brazoria County (North)--Pearland City
+48,4802,Houston-Galveston Area Council--Brazoria County (Central)--Alvin City
+48,4803,Houston-Galveston Area Council--Brazoria County (Southwest)--Lake Jackson City
+48,4901,Fort Bend County (East)--Missouri City
+48,4902,Fort Bend County (Northeast)--Sugar Land & Stafford Cities
+48,4903,"Fort Bend County (Central)--Rosenberg City, Pecan Grove & New Territory"
+48,4904,"Fort Bend County (North)--Mission Bend (Southwest), Cinco Ranch & Four Corners"
+48,4905,Fort Bend County (West & South)
+48,5000,Houston-Galveston Area Council (West)
+48,5100,"Capital Area COG (East)--Bastrop, Caldwell, Fayette & Lee Counties"
+48,5201,Capital Area COG--Williamson County (North)--Georgetown (East) & Taylor Cities
+48,5202,Capital Area COG--Williamson County (Southeast)--Round Rock City
+48,5203,"Williamson County (South)--Austin City (Far North), Brushy Creek & Jollyville"
+48,5204,Capital Area COG--Williamson County (West)--Cedar Park & Leander Cities
+48,5301,"Travis County (Northeast)--Pflugerville, Manor Cities & Wells Branch"
+48,5302,Austin City (North)
+48,5303,Austin City (Northeast)
+48,5304,Austin City (Southeast)
+48,5305,Austin City (Northwest)
+48,5306,Austin City (Central)
+48,5307,Austin City (South)
+48,5308,"Austin City (Southwest), Lost Creek & Barton Creek"
+48,5309,"Travis County (West, South & Outside Austin City)"
+48,5400,Capital Area COG (Southwest)--Hays County
+48,5500,Golden Crescent Regional Planning Commission (North) & Wilson & Karnes Counties
+48,5600,Golden Crescent Regional Planning Commission (Southeast)--Victoria & Calhoun Counties
+48,5700,Alamo Area COG (Northeast)--Guadalupe County
+48,5800,Alamo Area COG (Northeast)--Comal County
+48,5901,San Antonio City (Central)
+48,5902,San Antonio City (Northeast)--Inside Loop I-410
+48,5903,San Antonio City (Southeast)--Inside Loop I-410
+48,5904,San Antonio City (Northwest)--Inside Loop I-410
+48,5905,San Antonio City (West)--Inside Loop I-410
+48,5906,San Antonio City (Southwest)--Inside Loop I-410
+48,5907,Bexar County (South)--San Antonio City (Far South)
+48,5908,San Antonio City (West)--Between Loop TX-1604 & Loop I-410
+48,5909,San Antonio (Northwest) & Leon Valley Cities
+48,5910,San Antonio City (Northwest)--Between Loop TX-1604 & Loop I-410
+48,5911,"San Antonio City (North), Hollywood Park Town & Shavano Park City"
+48,5912,San Antonio City (Northeast)--Between Loop TX-1604 & Loop I-410
+48,5913,"San Antonio (Northeast), Kirby & Windcrest Cities"
+48,5914,Bexar County (Northwest)--San Antonio (Far Northwest) & Helotes Cities
+48,5915,Bexar County (North)--San Antonio City (Far North) & Timberwood Park
+48,5916,"Bexar County (Northeast)--San Antonio (Northeast), Universal City & Converse Cities"
+48,6000,Alamo Area COG (Northwest) & Blanco County
+48,6100,Alamo Area COG (Southwest)
+48,6200,Middle Rio Grande Development Council
+48,6301,South Texas Development Council (North)--Webb County--Laredo City (Central)
+48,6302,South Texas Development Council--Webb County (North & East)--Laredo City (Outer)
+48,6400,South Texas Development Council (South) & Coastal Bend COG (West)
+48,6500,Coastal Bend COG (Northeast)
+48,6601,Coastal Bend COG--Nueces County--Corpus Christi City (Outer)
+48,6602,Coastal Bend COG--Nueces County (Central)--Corpus Christi City (North Central)
+48,6603,Coastal Bend COG--Nueces County (Central)--Corpus Christi City (South Central)
+48,6701,Cameron County (East)--Brownsville City (North)
+48,6702,Cameron County (West)--Harlingen & San Benito Cities
+48,6703,Cameron County (South)--Brownsville City (Central)
+48,6801,Hidalgo County (Southeast)--Weslaco & Mercedes Cities
+48,6802,Hidalgo County (East)--Alamo & Donna Cities
+48,6803,"Hidalgo County (South Central)--Pharr, San Juan & Hidalgo Cities"
+48,6804,Hidalgo County (North Central)--Edinburg City
+48,6805,Hidalgo County (Central)--McAllen City
+48,6806,Hidalgo County (Southwest)--Mission City
+48,6807,Hidalgo County (North & West)
+48,6900,Coastal Bend COG (Southeast) & Willacy County
+49,3001,Tooele & Box Elder Counties
+49,5001,"Cache, Summit, Morgan & Rich Counties"
+49,11001,"Davis County (North)--Layton, Clearfield, Kaysville, Syracuse & Clinton Cities"
+49,11002,"Davis County (South)--Bountiful, Farmington & North Salt Lake Cities"
+49,13001,Southeast Utah & Uintah Basin Region
+49,21001,Southwest & South Central Utah (Outside Washington County)--Cedar City
+49,35001,"Salt Lake County (Northwest)--Salt Lake City (West), West Valley City (West) & Magna"
+49,35002,Salt Lake County (Northeast)--Salt Lake City (East)
+49,35003,"Salt Lake County--West Valley City (Central), Salt Lake City (South Central) & Kearns"
+49,35004,"Salt Lake County--West Valley City (East), Taylorsville & Murray (West) Cities"
+49,35005,"Salt Lake County (East Central)--Murray (East), Holladay Cities & Millcreek"
+49,35006,"Salt Lake County--West Jordan (West), Herriman & South Jordan (West) Cities"
+49,35007,"Salt Lake County--West Jordan (East), South Jordan (East) & Riverton Cities"
+49,35008,"Salt Lake County (Southeast)--Sandy (North), Cottonwood Heights & Midvale Cities"
+49,35009,Salt Lake County (South & East Central)--Draper (Northwest) & Sandy (South) Cities
+49,49001,"Utah County (West)--Saratoga Springs, Payson & Lehi (Southwest) Cities"
+49,49002,"Utah County (Central)--Orem, Pleasant Grove, American Fork & Lindon Cities"
+49,49003,Utah County (Central)--Provo City
+49,49004,"Utah County (East)--Spanish Fork, Springville, Lehi (Northeast) & Highland Cities"
+49,53001,Washington County--St. George City
+49,57001,"Weber County (West)--Roy, North Ogden, Ogden (Northwest) & West Haven Cities"
+49,57002,Weber County (East)--Ogden (Southeast) & South Ogden Cities
+50,100,"Northwest Vermont--Chittenden, Franklin & Grand Isle Counties--Burlington City"
+50,200,"Northeast Vermont--Washington, Caledonia, Orleans, Lamoille & Essex Counties"
+50,300,"Southeast Vermont--Windsor, Windham & Orange Counties"
+50,400,"Southwest Vermont--Rutland, Bennington & Addison Counties"
+51,1301,Arlington County (North)
+51,1302,Arlington County (South)
+51,4101,Chesterfield County (East)--James River Region
+51,4102,Chesterfield County (Central)--Chester & Rockwood
+51,4103,Chesterfield County (West)--Brandermill & Woodlake
+51,10701,Loudoun County (Northeast)--Sterling & Ashburn (Northeast/Ashburn Village)
+51,10702,Loudoun County (East Central)--Ashburn (Southwest/Belmont Ridge) & Dulles Airport
+51,10703,Loudoun County (West & South)--Leesburg Town
+51,51010,LENOWISCO & Cumberland Plateau Planning District Commissions
+51,51020,Mount Rogers Planning District Commission
+51,51040,New River Valley Planning District Commission
+51,51044,"Roanoke Valley-Alleghany Regional Commission (Roanoke, Salem Cities & Vinton Town)"
+51,51045,Roanoke Valley-Alleghany Regional Commission (Outside Roanoke & Salem Cities)
+51,51080,Central Shenandoah Planning District Commission (Southwest)
+51,51084,Northern Shenandoah Valley Regional Commission (North)
+51,51085,Northern Shenandoah Valley Regional Commission (South)
+51,51087,Rappahannock-Rapidan Regional Commission
+51,51089,Thomas Jefferson Planning District Commission (South & East)
+51,51090,Thomas Jefferson Planning District Commission (North)
+51,51095,"Virginia's Region 2000 (North)--Bedford, Amherst, Appomattox Counties & Bedford City"
+51,51096,Virginia's Region 2000 (South)--Campbell County & Lynchburg City
+51,51097,West Piedmont Planning District Commission
+51,51105,Southside Planning District Commission & Commonwealth Regional Council
+51,51110,Central Shenandoah Planning District Commission (Northeast)
+51,51115,George Washington Regional Commission (North)
+51,51120,George Washington Regional Commission (South)
+51,51125,"Middle Peninsula, Northern Neck & Accomack-Northampton Planning District Commissions"
+51,51135,Crater Planning District Commission
+51,51145,"Isle of Wight, Southampton Counties, Suffolk & Franklin Cities"
+51,51154,Norfolk City (Northeast)
+51,51155,Portsmouth & Norfolk (Southwest) Cities
+51,51164,Virginia Beach City (North)
+51,51165,Virginia Beach City (Central)
+51,51167,Virginia Beach City (South)
+51,51175,Newport News City
+51,51186,Hampton City
+51,51206,"James City, York Counties, Williamsburg & Poquoson Cities"
+51,51215,"Hanover, Powhatan, Goochland, New Kent, King William & Charles City Counties"
+51,51224,"Henrico County (South & East)--Highland Springs, East Highland Park & Glen Allen"
+51,51225,"Henrico County (West)--Tuckahoe, Short Pump & Wyndham"
+51,51235,Richmond City
+51,51244,Prince William County (North & West)--Linton Hall & Gainesville
+51,51245,"Manassas, Manassas Park Cities & Prince William County (Central)--Buckhall & Sudley"
+51,51246,"Prince William County (Southeast)--Dale City, Lake Ridge & Woodbridge"
+51,51255,Alexandria City
+51,55001,Chesapeake City (Northeast)
+51,55002,Chesapeake City (South & West)
+51,59301,"Fairfax County (East Central)--Annandale, West Falls Church & Bailey's Crossroads"
+51,59302,"Fairfax County (Southeast)--Woodlawn, Rose Hill & Mount Vernon"
+51,59303,Fairfax County (Central) & Fairfax City--Burke
+51,59304,Fairfax County (Southwest)--Centreville (Southeast) & Lorton
+51,59305,"Fairfax County (North Central)--Vienna Town, Oakton & Fair Oaks (East)"
+51,59306,"Fairfax County (South Central)--Springfield (South), West Springfield & Franconia"
+51,59307,Fairfax County (Northwest)--Reston (North) & Franklin Farm
+51,59308,Fairfax County (Northeast)--McLean & Idylwood
+51,59309,Fairfax County (West Central)--Centreville (North & West) & Chantilly (South & West)
+53,10100,Whatcom County--Bellingham City
+53,10200,"Skagit, Island & San Juan Counties"
+53,10300,Chelan & Douglas Counties
+53,10400,"Stevens, Okanogan, Pend Oreille & Ferry Counties"
+53,10501,Spokane County (North Central)--Spokane City (North)
+53,10502,Spokane County (South Central)--Spokane City (South)
+53,10503,Spokane County (East Central)--Greater Spokane Valley City
+53,10504,Spokane County (Outer)--Cheney City
+53,10600,"Whitman, Asotin, Adams, Lincoln, Columbia & Garfield Counties"
+53,10701,"Benton & Franklin Counties--Pasco, Richland (North) & West Richland Cities"
+53,10702,Benton County (East Central)--Kennewick & Richland (South) Cities
+53,10703,"Walla Walla, Benton (Outer) & Franklin (Outer) Counties"
+53,10800,Grant & Kittitas Counties
+53,10901,Yakima County (Central)--Greater Yakima City
+53,10902,Yakima County (Outer)--Sunnyside & Grandview Cities
+53,11000,"Lewis, Klickitat & Skamania Counties"
+53,11101,Clark County (Southwest)--Vancouver City (West & Central)
+53,11102,Clark County (West Central)--Salmon Creek & Hazel Dell
+53,11103,"Clark County (Southeast)--Vancouver (East), Camas & Washougal Cities"
+53,11104,Clark County (North)--Battle Ground City & Orchards
+53,11200,"Cowlitz, Pacific & Wahkiakum Counties"
+53,11300,Grays Harbor & Mason Counties
+53,11401,"Thurston County (Central)--Olympia, Lacey & Tumwater Cities"
+53,11402,Thurston County (Outer)
+53,11501,Pierce County (Central)--Tacoma City (Central)
+53,11502,Pierce County (Northwest)--Peninsula Region & Tacoma City (West)
+53,11503,Pierce County (West Central)--Lakewood City & Joint Base Lewis-McChord
+53,11504,"Pierce County (South Central)--Tacoma City (South), Parkland & Spanaway"
+53,11505,Pierce County (North Central)--Tacoma (Port) & Bonney Lake (Northwest) Cities
+53,11506,Pierce County (East Central)--Puyallup City & South Hill
+53,11507,"Pierce County (Southeast)--Graham, Elk Plain & Prairie Ridge"
+53,11601,Seattle City (Northwest)
+53,11602,Seattle City (Northeast)
+53,11603,Seattle City (Downtown)--Queen Anne & Magnolia
+53,11604,Seattle City (Southeast)--Capitol Hill
+53,11605,Seattle City (West)--Duwamish & Beacon Hill
+53,11606,"King County (Northwest)--Shoreline, Kenmore & Bothell (South) Cities"
+53,11607,"King County (Northwest)--Redmond, Kirkland Cities, Inglewood & Finn Hill"
+53,11608,King County (Northwest Central)--Greater Bellevue City
+53,11609,"King County (Central)--Sammamish, Issaquah, Mercer Island & Newcastle Cities"
+53,11610,"King County (Central)--Renton City, Fairwood, Bryn Mawr & Skyway"
+53,11611,"King County (West Central)--Burien, SeaTac, Tukwila Cities & White Center"
+53,11612,"King County (Far Southwest)--Federal Way, Des Moines Cities & Vashon Island"
+53,11613,King County (Southwest Central)--Kent City
+53,11614,King County (Southwest)--Auburn City & Lakeland
+53,11615,"King County (Southeast)--Maple Valley, Covington & Enumclaw Cities"
+53,11616,"King County (Northeast)--Snoqualmie City, Cottage Lake, Union Hill & Novelty Hill"
+53,11701,"Snohomish County (Southwest)--Edmonds, Lynnwood & Mountlake Terrace Cities"
+53,11702,Snohomish County (West Central)--Mukilteo & Everett (Southwest) Cities
+53,11703,Snohomish County (Central)--Everett City (Central & East) & Eastmont
+53,11704,"Snohomish County (South Central)--Bothell (North), Mill Creek Cities & Silver Firs"
+53,11705,Snohomish County (Central & Southeast)--Lake Stevens & Monroe Cities
+53,11706,Snohomish County (North)--Marysville & Arlington Cities
+53,11801,Kitsap County (North)--Bainbridge Island City & Silverdale
+53,11802,Kitsap County (South)--Bremerton & Port Orchard Cities
+53,11900,Clallam & Jefferson Counties
+54,100,"Ohio, Marshall, Hancock & Brooke Counties"
+54,200,"Harrison, Marion, Taylor & Doddridge Counties"
+54,300,Monongalia & Preston Counties--Morgantown City
+54,400,"Berkeley, Jefferson, Mineral, Hampshire & Morgan Counties"
+54,500,"Randolph, Upshur, Barbour, Lewis, Hardy, Grant, Pendleton & Tucker Counties"
+54,600,"Jackson, Wetzel, Roane, Braxton, Ritchie, Tyler, Gilmer & Calhoun Counties"
+54,700,"Wood, Pleasants & Wirt Counties"
+54,800,"Cabell, Wayne & Mason Counties--Huntington City"
+54,900,"Putnam, Boone & Lincoln Counties"
+54,1000,Kanawha & Clay Counties--Charleston City
+54,1100,"Greenbrier, Nicholas, Summers, Monroe & Pocahontas Counties"
+54,1200,"Raleigh, Mercer & Fayette Counties"
+54,1300,"Logan, Mingo, Wyoming & McDowell Counties"
+55,100,Northwest Wisconsin
+55,101,Madison City (Central)
+55,102,Dane County (East)
+55,103,Dane County (West)
+55,200,Green Bay City
+55,300,Outer Green Bay City
+55,600,"Oneida, Lincoln, Vilas, Langlade & Forest Counties"
+55,700,West Central Wisconsin--Northern Mississippi Region
+55,800,"Grant, Green, Iowa, Richland & Lafayette Counties"
+55,900,La Crosse County
+55,1000,Sauk & Columbia Counties
+55,1001,Dodge & Jefferson Counties
+55,1300,"Marinette, Oconto, Door & Florence Counties"
+55,1301,Manitowoc & Kewaunee Counties
+55,1400,East Central Wisconsin
+55,1401,Fond du Lac & Calumet Counties
+55,1500,Outagamie County
+55,1501,Winnebago County
+55,1600,Marathon County
+55,1601,"Central Sands--Wood, Portage, Juneau & Adams Counties"
+55,2400,Rock County
+55,2500,Sheboygan County
+55,10000,Kenosha County
+55,20000,Washington & Ozaukee Counties
+55,30000,Racine County
+55,40101,Milwaukee County (Northeast)
+55,40301,Milwaukee County (South)
+55,40701,Milwaukee County (West)
+55,41001,Milwaukee City (North)
+55,41002,Milwaukee City (North Central)
+55,41003,Milwaukee City (Central)
+55,41004,Milwaukee City (South Central)
+55,41005,Milwaukee City (South)
+55,50000,Walworth County
+55,55101,"Barron, Polk, Clark & Chippewa (North) Counties"
+55,55102,St. Croix & Dunn Counties
+55,55103,Eau Claire & Chippewa (South) Counties
+55,70101,Waukesha County (West)
+55,70201,Waukesha County (East)
+55,70301,Waukesha County (Central)
+56,100,"Sheridan, Park, Teton, Lincoln & Big Horn Counties"
+56,200,"Campbell, Goshen, Platte, Johnson, Washakie, Weston, Crook & Niobrara Counties"
+56,300,Laramie & Albany Counties
+56,400,"Natrona, Carbon & Converse Counties"
+56,500,"Sweetwater, Fremont, Uinta, Sublette & Hot Springs Counties--Wind River Reservation"
+66,100,Guam
+72,101,"San Sebasti�n, Aguada, Moca, A�asco & Rinc�n Municipios--Carr 2-Carr 111"
+72,102,"Aguadilla, Isabela & Quebradillas Municipios--Carr 2 (Noroeste)"
+72,201,"Cabo Rojo, San Germ�n, Lajas & Sabana Grande Municipios--Carr 2-Carr 100"
+72,202,"Mayag�ez, Hormigueros, Las Mar�as & Maricao Municipios--Carr 2 (Suroeste)"
+72,301,"Arecibo, Barceloneta & Florida Municipios--Carr 2 (Norte)"
+72,302,"Hatillo, Camuy, Utuado & Lares Municipios--Carr 2-Carr 129"
+72,401,"Yauco, Pe�uelas, Guayanilla, Adjuntas & Gu�nica Municipios--Carr 2 (Sur)"
+72,402,Ponce & Jayuya Municipios
+72,403,"Juana D�az, Coamo, Villalba & Santa Isabel Municipios--Carr 52-Carr 150"
+72,501,"Vega Baja, Manat�, Morovis & Ciales Municipios--Carr 137-Carr 149"
+72,502,Toa Baja & Dorado Municipios
+72,503,Toa Alta & Vega Alta Municipios
+72,601,"Corozal, Naranjito, Barranquitas, Orocovis & Comer�o Municipios--Carr 156-Carr 164"
+72,602,"Cayey, Cidra, Aguas Buenas & Aibonito Municipios--Carr 14-Carr 173"
+72,701,"Guayama, Salinas, Arroyo, Patillas & Maunabo Municipios--Carr 3 (Sureste)"
+72,801,Bayam�n Municipio (Este)
+72,802,Bayam�n Municipio (OEste)
+72,803,Guaynabo & Cata�o Municipios
+72,804,San Juan Municipio (Noroeste)
+72,805,San Juan Municipio (Este)
+72,806,San Juan Municipio (Sur)
+72,901,Carolina Municipio (Norte)
+72,902,"Trujillo Alto, Can�vanas, Lo�za & Carolina (Sur) Municipios--Carr 852-Carr 185"
+72,1001,Caguas Municipio
+72,1002,"Gurabo, San Lorenzo, Juncos & Las Piedras Municipios--Carr 30"
+72,1101,"R�o Grande, Fajardo, Luquillo, Ceiba, Vieques & Culebra Municipios--Carr 3 (Noreste)"
+72,1102,"Humacao, Yabucoa & Naguabo Municipios--Carr 53"
+78,100,U.S. Virgin Islands
